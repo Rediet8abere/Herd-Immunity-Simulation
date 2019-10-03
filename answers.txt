@@ -1,0 +1,6 @@
+100000
+0.9
+Ebola
+0.7
+0.25
+4 4 and 2 are not infected and not vaccinated
