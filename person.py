@@ -1,5 +1,5 @@
 import random
-random.seed(42)
+# random.seed(42)
 from virus import Virus
 
 
@@ -30,14 +30,21 @@ class Person(object):
         # __init__(self, name, repro_rate, mortality_rate)
         rand_num = random.random()
         round_rand_num = round(rand_num, 1)
-        print(round_rand_num)
+        # print("random number determing survival", round_rand_num)
         Virus = self.infection
+        # print("virus", Virus)
+        # print("mortality rate", Virus.mortality_rate)
         if round_rand_num < Virus.mortality_rate:
+            # self.is_alive not updating
             self.is_alive == False
+            # print('1')
+            # print("self_alive", self.is_alive)
             return False
         else:
             self.is_vaccinated = True
             self.infection = None
+            # print('2')
+            # print("self_alive", self.is_alive)
             return True
 
 # # person.infection is not None and random_person.is_vaccinated == False

@@ -106,7 +106,6 @@ class Logger(object):
         # TODO: Finish this method. If the person survives, did_die_from_infection
         # should be False.  Otherwise, did_die_from_infection should be True.
         # Append the results of the infection to the logfile
-        
 
     def log_time_step(self, time_step_number):
         ''' STRETCH CHALLENGE DETAILS:
