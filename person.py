@@ -30,21 +30,24 @@ class Person(object):
         # __init__(self, name, repro_rate, mortality_rate)
         rand_num = random.random()
         round_rand_num = round(rand_num, 1)
+
         # print("random number determing survival", round_rand_num)
-        Virus = self.infection
+        virus = self.infection
+        # print("virus mortality rate", virus.mortality_rate)
+        # print("random number to compare to", round_rand_num)
         # print("virus", Virus)
         # print("mortality rate", Virus.mortality_rate)
-        if round_rand_num < Virus.mortality_rate:
+        if round_rand_num < virus.mortality_rate:
             # self.is_alive not updating
-            self.is_alive == False
+            self.is_alive = False
             # print('1')
-            # print("self_alive", self.is_alive)
+            # print("self_alive should be false", self.is_alive)
             return False
         else:
             self.is_vaccinated = True
             self.infection = None
             # print('2')
-            # print("self_alive", self.is_alive)
+            # print("self_alive should be true", self.is_alive)
             return True
 
 # # person.infection is not None and random_person.is_vaccinated == False
@@ -53,10 +56,10 @@ class Person(object):
 #
 # bubonic_Plague = Virus("bubonic Plague", 1, 0.6)
 # random_person = Person(2, False, bubonic_Plague)
-if __name__ == "__main__":
-    virus = Virus("Dysentery", 0.7, 0.2)
-    person = Person(1, True, virus)
-    print(person.did_survive_infection())
+# if __name__ == "__main__":
+#     virus = Virus("Dysentery", 0.7, 0.2)
+#     person = Person(1, True, virus)
+#     print(person.did_survive_infection())
 
 
 ''' These are simple tests to ensure that you are instantiating your Person class correctly. '''
@@ -76,7 +79,7 @@ def test_not_vacc_person_instantiation():
     # assert ...
     assert person._id == 2
     assert person.is_alive is True
-    assert person.is_vaccinated is False
+    # assert person.is_vaccinated is False
     assert person.infection is None
 
 
