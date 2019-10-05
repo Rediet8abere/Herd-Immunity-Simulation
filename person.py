@@ -33,21 +33,25 @@ class Person(object):
 
         # print("random number determing survival", round_rand_num)
         virus = self.infection
-        # print("virus mortality rate", virus.mortality_rate)
-        # print("random number to compare to", round_rand_num)
-        # print("virus", Virus)
-        # print("mortality rate", Virus.mortality_rate)
-        if round_rand_num < virus.mortality_rate:
-            # self.is_alive not updating
-            self.is_alive = False
-            # print('1')
-            # print("self_alive should be false", self.is_alive)
-            return False
+        # print("virus", virus)
+        if virus is not None:
+            # print("virus mortality rate", virus.mortality_rate)
+            # print("random number to compare to", round_rand_num)
+            # print("virus", Virus)
+            # print("mortality rate", Virus.mortality_rate)
+            if round_rand_num < virus.mortality_rate:
+                # self.is_alive not updating
+                self.is_alive = False
+                # print('1')
+                print("self_alive should be false", self.is_alive)
+                return False
+            else:
+                self.is_vaccinated = True
+                self.infection = None
+                # print('2')
+                print("self_alive should be true", self.is_alive)
+                return True
         else:
-            self.is_vaccinated = True
-            self.infection = None
-            # print('2')
-            # print("self_alive should be true", self.is_alive)
             return True
 
 # # person.infection is not None and random_person.is_vaccinated == False
