@@ -20,19 +20,19 @@ class Logger(object):
         The simulation class should use this method immediately to log the specific
         parameters of the simulation as the first line of the file.
         '''
+        print(f'file name, {self.file_name}')
+        file  = open(self.file_name, 'w')
+        # file = open(self.file_name, 'a')
 
-        answers  = open(self.file_name, 'w')
-        # answers = open(self.file_name, 'a')
+        file.write(str(pop_size) + "\n")
+        file.write(str(vacc_percentage) + "\n")
+        file.write(str(virus_name) + "\n")
+        file.write(str(mortality_rate) + "\n")
+        file.write(str(basic_repro_num) + "\n")
+        file.close()
 
-        answers.write(str(pop_size) + "\n")
-        answers.write(str(vacc_percentage) + "\n")
-        answers.write(str(virus_name) + "\n")
-        answers.write(str(mortality_rate) + "\n")
-        answers.write(str(basic_repro_num) + "\n")
-        answers.close()
-
-        with open(self.file_name) as f:
-            content = f.read().split("\n")
+        with open(self.file_name) as file:
+            content = file.read().split("\n")
             print(content)
 
         # TODO: Finish this method. This line of metadata should be tab-delimited
@@ -65,14 +65,14 @@ class Logger(object):
         # self.infection = infection  # Virus object or None
 
         # A sick person only has a chance at infecting healthy, unvaccinated people they encounter.
-        answers = open(self.file_name, 'a')
+        file = open(self.file_name, 'a')
         if did_infect:
-            answers.write(f'{random_person.ID} did not infect {person.ID} because already sick')
+            file.write(f'{random_person.ID} did not infect {person.ID} because already sick')
         else:
             if random_person_sick:
-                answers.write(f'1 {random_person.ID} infects {person.ID}')
+                file.write(f'1 {random_person.ID} infects {person.ID}')
             elif random_person_vacc:
-                answers.write(f'{random_person.ID} did not infect {person.ID} because vaccinated')
+                file.write(f'{random_person.ID} did not infect {person.ID} because vaccinated')
 
 
         # print(person._id)
@@ -96,13 +96,13 @@ class Logger(object):
         The format of the log should be:
             "{person.ID} died from infection\n" or "{person.ID} survived infection.\n"
         '''
-        answers = open(self.file_name, 'a')
+        file = open(self.file_name, 'a')
         if person.is_alive:
             did_die_from_infection = False
-            answers.write(f'{person.ID} survived infection.\n')
+            file.write(f'{person.ID} survived infection.\n')
         else:
             did_die_from_infection = True
-            answers.write(f'{person.ID} died from infection\n')
+            file.write(f'{person.ID} died from infection\n')
         # TODO: Finish this method. If the person survives, did_die_from_infection
         # should be False.  Otherwise, did_die_from_infection should be True.
         # Append the results of the infection to the logfile
@@ -128,7 +128,7 @@ class Logger(object):
         pass
 
 if __name__ == "__main__":
-    logger = Logger('answers.txt')
+    logger = Logger('test_main.txt')
     logger.write_metadata(100000, 0.90, 'Ebola', 0.70, 0.25)
 
     # virus ( name, repro_rate, mortality_rate)
@@ -145,7 +145,7 @@ if __name__ == "__main__":
 # python3 simulation.py Ebola 0.25 0.70 100000 0.90 10
 def test_write_metadata():
     # create some people to test if our init method works as expected
-    logger = Logger('answers.txt')
+    logger = Logger('test_write.txt')
     logger.write_metadata(100000, 0.90, 'Ebola', 0.70, 0.25)
 
     with open('answers.txt') as f:
@@ -159,7 +159,7 @@ def test_write_metadata():
 def test_log_interaction():
     # virus ( name, repro_rate, mortality_rate)
     # person (_id, is_vaccinated, infection=None)
-    logger = Logger('answers.txt')
+    logger = Logger('test_interaction.txt')
 
     dysentery = Virus("Dysentery", 0.7, 0.2)
     person = Person(4, True, dysentery)
