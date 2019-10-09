@@ -29,26 +29,20 @@ class Person(object):
         # TODO:  Finish this method. Should return a Boolean
         # __init__(self, name, repro_rate, mortality_rate)
         rand_num = random.random()
-        round_rand_num = round(rand_num, 1)
 
         # print("random number determing survival", round_rand_num)
-        virus = self.infection
         # print("virus", virus)
-        if virus is not None:
-            print("virus mortality rate", virus.mortality_rate)
-            print("random number to compare to", round_rand_num)
-            if round_rand_num < virus.mortality_rate:
-                self.is_alive = False
-                print("self_alive should be false", self.is_alive)
-                return False
-            else:
-                self.is_vaccinated = True
-                self.is_alive = True
-                self.infection = None
-                print("self_alive should be true", self.is_alive)
-                return True
+        # print("virus mortality rate", virus.mortality_rate)
+        # print("random number to compare to", rand_num)
+        if rand_num < self.infection.mortality_rate:
+            self.is_alive = False
+            return False
         else:
+            self.is_vaccinated = True
+            self.is_alive = True
+            self.infection = None
             return True
+
 
 # # person.infection is not None and random_person.is_vaccinated == False
 # dysentery = Virus("Dysentery", 0.7, 0.2)

@@ -24,11 +24,11 @@ class Logger(object):
         file  = open(self.file_name, 'w')
         # file = open(self.file_name, 'a')
 
-        file.write(str(pop_size) + "\n")
-        file.write(str(vacc_percentage) + "\n")
-        file.write(str(virus_name) + "\n")
-        file.write(str(mortality_rate) + "\n")
-        file.write(str(basic_repro_num) + "\n")
+        file.write(f" {str(pop_size)} \n")
+        file.write(f" {str(vacc_percentage)} \n")
+        file.write(f" {str(virus_name)} \n")
+        file.write(f"{str(mortality_rate)} \n")
+        file.write(f"{str(basic_repro_num)} \n")
         file.close()
 
         with open(self.file_name) as file:
@@ -67,12 +67,12 @@ class Logger(object):
         # A sick person only has a chance at infecting healthy, unvaccinated people they encounter.
         file = open(self.file_name, 'a')
         if did_infect:
-            file.write(f'{random_person.ID} did not infect {person.ID} because already sick')
+            file.write(f'{random_person._id} did not infect {person._id} because already sick \n')
         else:
             if random_person_sick:
-                file.write(f'1 {random_person.ID} infects {person.ID}')
+                file.write(f'1 {random_person._id} infects {person._id} \n')
             elif random_person_vacc:
-                file.write(f'{random_person.ID} did not infect {person.ID} because vaccinated')
+                file.write(f'{random_person._id} did not infect {person._id} because vaccinated \n')
 
 
         # print(person._id)
@@ -148,7 +148,7 @@ def test_write_metadata():
     logger = Logger('test_write.txt')
     logger.write_metadata(100000, 0.90, 'Ebola', 0.70, 0.25)
 
-    with open('answers.txt') as f:
+    with open('test_write.txt') as f:
         content = f.read().split("\n")
         assert content[0] == '100000'
         assert content[1] == '0.9'

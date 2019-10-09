@@ -9,16 +9,7 @@ def test_simulation_instance():
     sim = simulation.Simulation(100000, 0.90, virus, 10)
     assert sim
 def test__create_population():
-
-    # big_stick = superheroes.Weapon("Overwhelming Stick", 200)
-    # test_runs = 100
-    # for _ in range(0, test_runs):
-    #     attack = big_stick.attack()
-    #     assert attack <= 200 and attack >= 100
-
-
     virus = simulation.Virus('Ebola', 0.25, 0.70)
-    person = simulation.Person(1999, False, virus)
     sim = simulation.Simulation(100000, 0.90, virus, 10)
     create_population = sim._create_population(10)
     for index in range(len(create_population)):
@@ -40,4 +31,21 @@ def test__create_population():
             assert person.is_alive == True
             assert person.is_vaccinated == True
             assert person.infection == None
-            
+
+def test_simulation_should_continue():
+    virus = simulation.Virus('Ebola', 0.25, 0.70)
+    sim = simulation.Simulation(100, 0.90, virus, 10)
+    for i in range(100):
+        simulation_should_continue = sim._simulation_should_continue()
+        assert simulation_should_continue == True
+    # person_list = []
+    # for num in range(100):
+    #     if num < 10:
+    #         person = Person(num, False, self.virus)
+    #         person_list.append(person)
+    #     elif 10 <= num <= (20):
+    #         person = Person(num, False)
+    #         person_list.append(person)
+    #     else:
+    #         person = Person(num, True)
+    #         person_list.append(person)

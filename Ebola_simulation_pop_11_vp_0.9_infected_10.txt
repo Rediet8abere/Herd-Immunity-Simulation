@@ -1,0 +1,5000 @@
+10 did not infect 0 because vaccinated 
+1 1 infects 0 
+1 4 infects 0 
+1 3 infects 0 
+1 3 infects 0 
+1 2 infects 0 
+1 1 infects 0 
+10 did not infect 0 because vaccinated 
+1 8 infects 0 
+1 1 infects 0 
+1 9 infects 0 
+1 6 infects 0 
+1 1 infects 0 
+1 3 infects 0 
+1 3 infects 0 
+1 8 infects 0 
+1 9 infects 0 
+1 8 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 8 infects 0 
+1 6 infects 0 
+1 3 infects 0 
+1 7 infects 0 
+1 9 infects 0 
+1 4 infects 0 
+1 2 infects 0 
+1 6 infects 0 
+1 5 infects 0 
+1 4 infects 0 
+1 2 infects 0 
+1 3 infects 0 
+1 5 infects 0 
+1 1 infects 0 
+1 1 infects 0 
+1 6 infects 0 
+1 1 infects 0 
+1 5 infects 0 
+1 5 infects 0 
+1 9 infects 0 
+1 4 infects 0 
+1 7 infects 0 
+1 8 infects 0 
+1 1 infects 0 
+1 6 infects 0 
+1 1 infects 0 
+1 8 infects 0 
+1 4 infects 0 
+10 did not infect 0 because vaccinated 
+1 9 infects 0 
+1 5 infects 0 
+1 9 infects 0 
+1 3 infects 0 
+1 1 infects 0 
+10 did not infect 0 because vaccinated 
+1 3 infects 0 
+1 4 infects 0 
+1 1 infects 0 
+1 3 infects 0 
+1 1 infects 0 
+1 6 infects 0 
+1 4 infects 0 
+1 7 infects 0 
+10 did not infect 0 because vaccinated 
+1 5 infects 0 
+1 2 infects 0 
+1 5 infects 0 
+1 5 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 4 infects 0 
+10 did not infect 0 because vaccinated 
+10 did not infect 0 because vaccinated 
+1 1 infects 0 
+1 9 infects 0 
+10 did not infect 0 because vaccinated 
+1 2 infects 0 
+1 8 infects 0 
+1 3 infects 0 
+1 2 infects 0 
+1 7 infects 0 
+1 6 infects 0 
+1 4 infects 0 
+10 did not infect 0 because vaccinated 
+1 8 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 5 infects 0 
+1 3 infects 0 
+1 5 infects 0 
+1 6 infects 0 
+1 4 infects 0 
+1 1 infects 0 
+1 3 infects 0 
+1 9 infects 0 
+1 5 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 7 infects 0 
+1 6 infects 0 
+10 did not infect 1 because vaccinated 
+1 7 infects 1 
+1 2 infects 1 
+1 4 infects 1 
+1 2 infects 1 
+1 3 infects 1 
+1 8 infects 1 
+1 8 infects 1 
+1 4 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 5 infects 1 
+1 3 infects 1 
+1 2 infects 1 
+1 8 infects 1 
+1 7 infects 1 
+0 did not infect 1 because vaccinated 
+1 2 infects 1 
+10 did not infect 1 because vaccinated 
+1 2 infects 1 
+10 did not infect 1 because vaccinated 
+1 6 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 6 infects 1 
+1 9 infects 1 
+1 7 infects 1 
+1 8 infects 1 
+1 4 infects 1 
+1 8 infects 1 
+0 did not infect 1 because vaccinated 
+10 did not infect 1 because vaccinated 
+10 did not infect 1 because vaccinated 
+1 8 infects 1 
+1 4 infects 1 
+10 did not infect 1 because vaccinated 
+1 5 infects 1 
+1 4 infects 1 
+1 6 infects 1 
+1 2 infects 1 
+1 7 infects 1 
+0 did not infect 1 because vaccinated 
+1 4 infects 1 
+1 8 infects 1 
+1 2 infects 1 
+1 8 infects 1 
+10 did not infect 1 because vaccinated 
+1 4 infects 1 
+10 did not infect 1 because vaccinated 
+1 8 infects 1 
+1 9 infects 1 
+1 3 infects 1 
+1 2 infects 1 
+1 5 infects 1 
+1 2 infects 1 
+1 8 infects 1 
+1 8 infects 1 
+0 did not infect 1 because vaccinated 
+1 9 infects 1 
+1 5 infects 1 
+1 7 infects 1 
+0 did not infect 1 because vaccinated 
+1 5 infects 1 
+1 4 infects 1 
+1 3 infects 1 
+0 did not infect 1 because vaccinated 
+1 3 infects 1 
+1 9 infects 1 
+1 7 infects 1 
+1 8 infects 1 
+1 2 infects 1 
+1 2 infects 1 
+10 did not infect 1 because vaccinated 
+1 7 infects 1 
+1 8 infects 1 
+1 2 infects 1 
+1 4 infects 1 
+1 8 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 3 infects 1 
+1 8 infects 1 
+1 3 infects 1 
+1 4 infects 1 
+1 6 infects 1 
+10 did not infect 1 because vaccinated 
+10 did not infect 1 because vaccinated 
+1 5 infects 1 
+1 7 infects 1 
+1 8 infects 1 
+1 7 infects 1 
+1 3 infects 1 
+1 3 infects 1 
+1 5 infects 1 
+0 did not infect 1 because vaccinated 
+1 9 infects 1 
+1 8 infects 1 
+1 3 infects 1 
+0 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+0 did not infect 2 because vaccinated 
+1 3 infects 2 
+0 did not infect 2 because vaccinated 
+1 5 infects 2 
+1 8 infects 2 
+1 3 infects 2 
+1 4 infects 2 
+10 did not infect 2 because vaccinated 
+1 7 infects 2 
+1 3 infects 2 
+1 8 infects 2 
+1 9 infects 2 
+1 9 infects 2 
+1 7 infects 2 
+1 3 infects 2 
+1 7 infects 2 
+1 6 infects 2 
+1 3 infects 2 
+10 did not infect 2 because vaccinated 
+1 6 infects 2 
+1 5 infects 2 
+1 6 infects 2 
+1 6 infects 2 
+1 7 infects 2 
+0 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+0 did not infect 2 because vaccinated 
+1 6 infects 2 
+1 5 infects 2 
+1 3 infects 2 
+1 3 infects 2 
+1 3 infects 2 
+1 8 infects 2 
+1 7 infects 2 
+1 6 infects 2 
+1 4 infects 2 
+1 7 infects 2 
+1 3 infects 2 
+1 7 infects 2 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+1 3 infects 2 
+1 6 infects 2 
+1 7 infects 2 
+1 7 infects 2 
+1 3 infects 2 
+1 6 infects 2 
+0 did not infect 2 because vaccinated 
+1 6 infects 2 
+0 did not infect 2 because vaccinated 
+1 6 infects 2 
+1 4 infects 2 
+1 7 infects 2 
+1 4 infects 2 
+1 6 infects 2 
+1 8 infects 2 
+10 did not infect 2 because vaccinated 
+1 7 infects 2 
+1 3 infects 2 
+1 4 infects 2 
+1 3 infects 2 
+0 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+1 5 infects 2 
+0 did not infect 2 because vaccinated 
+0 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 7 infects 2 
+1 8 infects 2 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+1 8 infects 2 
+1 9 infects 2 
+10 did not infect 2 because vaccinated 
+1 3 infects 2 
+1 6 infects 2 
+1 9 infects 2 
+1 3 infects 2 
+1 9 infects 2 
+1 9 infects 2 
+0 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 6 infects 2 
+10 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 9 infects 2 
+1 8 infects 2 
+1 5 infects 2 
+1 4 infects 2 
+1 3 infects 2 
+10 did not infect 2 because vaccinated 
+1 4 infects 3 
+1 6 infects 3 
+2 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 7 infects 3 
+1 5 infects 3 
+0 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 9 infects 3 
+1 9 infects 3 
+1 8 infects 3 
+1 8 infects 3 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 5 infects 3 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 8 infects 3 
+1 4 infects 3 
+1 9 infects 3 
+10 did not infect 3 because vaccinated 
+1 8 infects 3 
+0 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 8 infects 3 
+1 4 infects 3 
+10 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 8 infects 3 
+2 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 4 infects 3 
+1 9 infects 3 
+1 5 infects 3 
+10 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 8 infects 3 
+1 7 infects 3 
+1 4 infects 3 
+0 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 6 infects 3 
+1 4 infects 3 
+0 did not infect 3 because vaccinated 
+0 did not infect 3 because vaccinated 
+1 5 infects 3 
+2 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 8 infects 3 
+1 6 infects 3 
+1 8 infects 3 
+0 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 8 infects 3 
+0 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 9 infects 3 
+1 8 infects 3 
+2 did not infect 3 because vaccinated 
+1 6 infects 3 
+2 did not infect 3 because vaccinated 
+0 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 5 infects 3 
+0 did not infect 3 because vaccinated 
+1 5 infects 3 
+10 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 8 infects 3 
+1 6 infects 3 
+1 9 infects 3 
+2 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 6 infects 3 
+0 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 6 infects 3 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 6 infects 3 
+0 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 7 infects 3 
+1 5 infects 3 
+1 4 infects 3 
+0 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 5 infects 4 
+1 5 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 5 infects 4 
+0 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+1 9 infects 4 
+0 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 6 infects 4 
+1 5 infects 4 
+1 5 infects 4 
+1 6 infects 4 
+1 9 infects 4 
+1 8 infects 4 
+1 6 infects 4 
+1 9 infects 4 
+0 did not infect 4 because vaccinated 
+1 6 infects 4 
+0 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 8 infects 4 
+10 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+1 5 infects 4 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 5 infects 4 
+1 9 infects 4 
+1 5 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+10 did not infect 4 because vaccinated 
+1 6 infects 4 
+1 5 infects 4 
+1 6 infects 4 
+1 8 infects 4 
+2 did not infect 4 because vaccinated 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 9 infects 4 
+1 6 infects 4 
+1 8 infects 4 
+0 did not infect 4 because vaccinated 
+1 6 infects 4 
+1 9 infects 4 
+1 9 infects 4 
+10 did not infect 4 because vaccinated 
+1 5 infects 4 
+1 7 infects 4 
+1 7 infects 4 
+1 7 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 7 infects 4 
+2 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+10 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 5 infects 4 
+10 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+0 did not infect 4 because vaccinated 
+0 did not infect 4 because vaccinated 
+1 7 infects 4 
+1 9 infects 4 
+1 7 infects 4 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 6 infects 4 
+1 7 infects 4 
+1 6 infects 4 
+2 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+0 did not infect 4 because vaccinated 
+1 6 infects 4 
+2 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 7 infects 4 
+0 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 7 infects 4 
+2 did not infect 4 because vaccinated 
+1 7 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 8 infects 4 
+1 9 infects 4 
+1 5 infects 4 
+1 7 infects 5 
+1 9 infects 5 
+1 8 infects 5 
+1 6 infects 5 
+1 8 infects 5 
+1 7 infects 5 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 8 infects 5 
+1 7 infects 5 
+10 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 8 infects 5 
+2 did not infect 5 because vaccinated 
+2 did not infect 5 because vaccinated 
+1 6 infects 5 
+2 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 6 infects 5 
+1 8 infects 5 
+1 7 infects 5 
+1 6 infects 5 
+0 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 6 infects 5 
+1 9 infects 5 
+0 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 6 infects 5 
+1 7 infects 5 
+0 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 6 infects 5 
+1 8 infects 5 
+1 8 infects 5 
+1 9 infects 5 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 7 infects 5 
+0 did not infect 5 because vaccinated 
+1 6 infects 5 
+10 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+1 6 infects 5 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+2 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 8 infects 5 
+0 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 9 infects 5 
+1 9 infects 5 
+10 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+1 6 infects 5 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+2 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 7 infects 5 
+1 6 infects 5 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+4 did not infect 5 because vaccinated 
+1 7 infects 5 
+0 did not infect 5 because vaccinated 
+1 8 infects 5 
+0 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+1 9 infects 5 
+2 did not infect 5 because vaccinated 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+10 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+2 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 9 infects 5 
+2 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 9 infects 5 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+10 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 9 infects 6 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+10 did not infect 6 because vaccinated 
+1 8 infects 6 
+10 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 7 infects 6 
+10 did not infect 6 because vaccinated 
+1 7 infects 6 
+2 did not infect 6 because vaccinated 
+2 did not infect 6 because vaccinated 
+1 8 infects 6 
+10 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 8 infects 6 
+1 7 infects 6 
+1 7 infects 6 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+1 9 infects 6 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 7 infects 6 
+2 did not infect 6 because vaccinated 
+1 7 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+1 8 infects 6 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+1 7 infects 6 
+1 8 infects 6 
+1 7 infects 6 
+10 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+0 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+10 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 7 infects 6 
+1 8 infects 6 
+1 8 infects 6 
+1 8 infects 6 
+1 7 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 8 infects 6 
+2 did not infect 6 because vaccinated 
+1 7 infects 6 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 8 infects 6 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+2 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+2 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+4 did not infect 6 because vaccinated 
+2 did not infect 6 because vaccinated 
+10 did not infect 6 because vaccinated 
+1 7 infects 6 
+0 did not infect 6 because vaccinated 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+1 7 infects 6 
+2 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+2 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+1 9 infects 7 
+1 9 infects 7 
+1 9 infects 7 
+1 8 infects 7 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 8 infects 7 
+2 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+1 8 infects 7 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+1 8 infects 7 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 9 infects 7 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 8 infects 7 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+1 8 infects 7 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 9 infects 7 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+1 8 infects 7 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+0 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+0 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+1 9 infects 8 
+2 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 0 because vaccinated 
+1 1 infects 0 
+1 4 infects 0 
+1 3 infects 0 
+1 3 infects 0 
+1 2 infects 0 
+1 1 infects 0 
+10 did not infect 0 because vaccinated 
+1 8 infects 0 
+1 1 infects 0 
+1 9 infects 0 
+1 6 infects 0 
+1 1 infects 0 
+1 3 infects 0 
+1 3 infects 0 
+1 8 infects 0 
+1 9 infects 0 
+1 8 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 8 infects 0 
+1 6 infects 0 
+1 3 infects 0 
+1 7 infects 0 
+1 9 infects 0 
+1 4 infects 0 
+1 2 infects 0 
+1 6 infects 0 
+1 5 infects 0 
+1 4 infects 0 
+1 2 infects 0 
+1 3 infects 0 
+1 5 infects 0 
+1 1 infects 0 
+1 1 infects 0 
+1 6 infects 0 
+1 1 infects 0 
+1 5 infects 0 
+1 5 infects 0 
+1 9 infects 0 
+1 4 infects 0 
+1 7 infects 0 
+1 8 infects 0 
+1 1 infects 0 
+1 6 infects 0 
+1 1 infects 0 
+1 8 infects 0 
+1 4 infects 0 
+10 did not infect 0 because vaccinated 
+1 9 infects 0 
+1 5 infects 0 
+1 9 infects 0 
+1 3 infects 0 
+1 1 infects 0 
+10 did not infect 0 because vaccinated 
+1 3 infects 0 
+1 4 infects 0 
+1 1 infects 0 
+1 3 infects 0 
+1 1 infects 0 
+1 6 infects 0 
+1 4 infects 0 
+1 7 infects 0 
+10 did not infect 0 because vaccinated 
+1 5 infects 0 
+1 2 infects 0 
+1 5 infects 0 
+1 5 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 4 infects 0 
+10 did not infect 0 because vaccinated 
+10 did not infect 0 because vaccinated 
+1 1 infects 0 
+1 9 infects 0 
+10 did not infect 0 because vaccinated 
+1 2 infects 0 
+1 8 infects 0 
+1 3 infects 0 
+1 2 infects 0 
+1 7 infects 0 
+1 6 infects 0 
+1 4 infects 0 
+10 did not infect 0 because vaccinated 
+1 8 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 5 infects 0 
+1 3 infects 0 
+1 5 infects 0 
+1 6 infects 0 
+1 4 infects 0 
+1 1 infects 0 
+1 3 infects 0 
+1 9 infects 0 
+1 5 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 7 infects 0 
+1 6 infects 0 
+10 did not infect 1 because vaccinated 
+1 7 infects 1 
+1 2 infects 1 
+1 4 infects 1 
+1 2 infects 1 
+1 3 infects 1 
+1 8 infects 1 
+1 8 infects 1 
+1 4 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 5 infects 1 
+1 3 infects 1 
+1 2 infects 1 
+1 8 infects 1 
+1 7 infects 1 
+0 did not infect 1 because vaccinated 
+1 2 infects 1 
+10 did not infect 1 because vaccinated 
+1 2 infects 1 
+10 did not infect 1 because vaccinated 
+1 6 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 6 infects 1 
+1 9 infects 1 
+1 7 infects 1 
+1 8 infects 1 
+1 4 infects 1 
+1 8 infects 1 
+0 did not infect 1 because vaccinated 
+10 did not infect 1 because vaccinated 
+10 did not infect 1 because vaccinated 
+1 8 infects 1 
+1 4 infects 1 
+10 did not infect 1 because vaccinated 
+1 5 infects 1 
+1 4 infects 1 
+1 6 infects 1 
+1 2 infects 1 
+1 7 infects 1 
+0 did not infect 1 because vaccinated 
+1 4 infects 1 
+1 8 infects 1 
+1 2 infects 1 
+1 8 infects 1 
+10 did not infect 1 because vaccinated 
+1 4 infects 1 
+10 did not infect 1 because vaccinated 
+1 8 infects 1 
+1 9 infects 1 
+1 3 infects 1 
+1 2 infects 1 
+1 5 infects 1 
+1 2 infects 1 
+1 8 infects 1 
+1 8 infects 1 
+0 did not infect 1 because vaccinated 
+1 9 infects 1 
+1 5 infects 1 
+1 7 infects 1 
+0 did not infect 1 because vaccinated 
+1 5 infects 1 
+1 4 infects 1 
+1 3 infects 1 
+0 did not infect 1 because vaccinated 
+1 3 infects 1 
+1 9 infects 1 
+1 7 infects 1 
+1 8 infects 1 
+1 2 infects 1 
+1 2 infects 1 
+10 did not infect 1 because vaccinated 
+1 7 infects 1 
+1 8 infects 1 
+1 2 infects 1 
+1 4 infects 1 
+1 8 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 3 infects 1 
+1 8 infects 1 
+1 3 infects 1 
+1 4 infects 1 
+1 6 infects 1 
+10 did not infect 1 because vaccinated 
+10 did not infect 1 because vaccinated 
+1 5 infects 1 
+1 7 infects 1 
+1 8 infects 1 
+1 7 infects 1 
+1 3 infects 1 
+1 3 infects 1 
+1 5 infects 1 
+0 did not infect 1 because vaccinated 
+1 9 infects 1 
+1 8 infects 1 
+1 3 infects 1 
+0 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+0 did not infect 2 because vaccinated 
+1 3 infects 2 
+0 did not infect 2 because vaccinated 
+1 5 infects 2 
+1 8 infects 2 
+1 3 infects 2 
+1 4 infects 2 
+10 did not infect 2 because vaccinated 
+1 7 infects 2 
+1 3 infects 2 
+1 8 infects 2 
+1 9 infects 2 
+1 9 infects 2 
+1 7 infects 2 
+1 3 infects 2 
+1 7 infects 2 
+1 6 infects 2 
+1 3 infects 2 
+10 did not infect 2 because vaccinated 
+1 6 infects 2 
+1 5 infects 2 
+1 6 infects 2 
+1 6 infects 2 
+1 7 infects 2 
+0 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+0 did not infect 2 because vaccinated 
+1 6 infects 2 
+1 5 infects 2 
+1 3 infects 2 
+1 3 infects 2 
+1 3 infects 2 
+1 8 infects 2 
+1 7 infects 2 
+1 6 infects 2 
+1 4 infects 2 
+1 7 infects 2 
+1 3 infects 2 
+1 7 infects 2 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+1 3 infects 2 
+1 6 infects 2 
+1 7 infects 2 
+1 7 infects 2 
+1 3 infects 2 
+1 6 infects 2 
+0 did not infect 2 because vaccinated 
+1 6 infects 2 
+0 did not infect 2 because vaccinated 
+1 6 infects 2 
+1 4 infects 2 
+1 7 infects 2 
+1 4 infects 2 
+1 6 infects 2 
+1 8 infects 2 
+10 did not infect 2 because vaccinated 
+1 7 infects 2 
+1 3 infects 2 
+1 4 infects 2 
+1 3 infects 2 
+0 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+1 5 infects 2 
+0 did not infect 2 because vaccinated 
+0 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 7 infects 2 
+1 8 infects 2 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+1 8 infects 2 
+1 9 infects 2 
+10 did not infect 2 because vaccinated 
+1 3 infects 2 
+1 6 infects 2 
+1 9 infects 2 
+1 3 infects 2 
+1 9 infects 2 
+1 9 infects 2 
+0 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 6 infects 2 
+10 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 9 infects 2 
+1 8 infects 2 
+1 5 infects 2 
+1 4 infects 2 
+1 3 infects 2 
+10 did not infect 2 because vaccinated 
+1 4 infects 3 
+1 6 infects 3 
+2 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 7 infects 3 
+1 5 infects 3 
+0 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 9 infects 3 
+1 9 infects 3 
+1 8 infects 3 
+1 8 infects 3 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 5 infects 3 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 8 infects 3 
+1 4 infects 3 
+1 9 infects 3 
+10 did not infect 3 because vaccinated 
+1 8 infects 3 
+0 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 8 infects 3 
+1 4 infects 3 
+10 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 8 infects 3 
+2 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 4 infects 3 
+1 9 infects 3 
+1 5 infects 3 
+10 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 8 infects 3 
+1 7 infects 3 
+1 4 infects 3 
+0 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 6 infects 3 
+1 4 infects 3 
+0 did not infect 3 because vaccinated 
+0 did not infect 3 because vaccinated 
+1 5 infects 3 
+2 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 8 infects 3 
+1 6 infects 3 
+1 8 infects 3 
+0 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 8 infects 3 
+0 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 9 infects 3 
+1 8 infects 3 
+2 did not infect 3 because vaccinated 
+1 6 infects 3 
+2 did not infect 3 because vaccinated 
+0 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 5 infects 3 
+0 did not infect 3 because vaccinated 
+1 5 infects 3 
+10 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 8 infects 3 
+1 6 infects 3 
+1 9 infects 3 
+2 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 6 infects 3 
+0 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 6 infects 3 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 6 infects 3 
+0 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 7 infects 3 
+1 5 infects 3 
+1 4 infects 3 
+0 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 5 infects 4 
+1 5 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 5 infects 4 
+0 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+1 9 infects 4 
+0 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 6 infects 4 
+1 5 infects 4 
+1 5 infects 4 
+1 6 infects 4 
+1 9 infects 4 
+1 8 infects 4 
+1 6 infects 4 
+1 9 infects 4 
+0 did not infect 4 because vaccinated 
+1 6 infects 4 
+0 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 8 infects 4 
+10 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+1 5 infects 4 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 5 infects 4 
+1 9 infects 4 
+1 5 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+10 did not infect 4 because vaccinated 
+1 6 infects 4 
+1 5 infects 4 
+1 6 infects 4 
+1 8 infects 4 
+2 did not infect 4 because vaccinated 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 9 infects 4 
+1 6 infects 4 
+1 8 infects 4 
+0 did not infect 4 because vaccinated 
+1 6 infects 4 
+1 9 infects 4 
+1 9 infects 4 
+10 did not infect 4 because vaccinated 
+1 5 infects 4 
+1 7 infects 4 
+1 7 infects 4 
+1 7 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 7 infects 4 
+2 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+10 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 5 infects 4 
+10 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+0 did not infect 4 because vaccinated 
+0 did not infect 4 because vaccinated 
+1 7 infects 4 
+1 9 infects 4 
+1 7 infects 4 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 6 infects 4 
+1 7 infects 4 
+1 6 infects 4 
+2 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+0 did not infect 4 because vaccinated 
+1 6 infects 4 
+2 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 7 infects 4 
+0 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 7 infects 4 
+2 did not infect 4 because vaccinated 
+1 7 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 8 infects 4 
+1 9 infects 4 
+1 5 infects 4 
+1 7 infects 5 
+1 9 infects 5 
+1 8 infects 5 
+1 6 infects 5 
+1 8 infects 5 
+1 7 infects 5 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 8 infects 5 
+1 7 infects 5 
+10 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 8 infects 5 
+2 did not infect 5 because vaccinated 
+2 did not infect 5 because vaccinated 
+1 6 infects 5 
+2 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 6 infects 5 
+1 8 infects 5 
+1 7 infects 5 
+1 6 infects 5 
+0 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 6 infects 5 
+1 9 infects 5 
+0 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 6 infects 5 
+1 7 infects 5 
+0 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 6 infects 5 
+1 8 infects 5 
+1 8 infects 5 
+1 9 infects 5 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 7 infects 5 
+0 did not infect 5 because vaccinated 
+1 6 infects 5 
+10 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+1 6 infects 5 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+2 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 8 infects 5 
+0 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 9 infects 5 
+1 9 infects 5 
+10 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+1 6 infects 5 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+2 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 7 infects 5 
+1 6 infects 5 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+4 did not infect 5 because vaccinated 
+1 7 infects 5 
+0 did not infect 5 because vaccinated 
+1 8 infects 5 
+0 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+1 9 infects 5 
+2 did not infect 5 because vaccinated 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+10 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+2 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 9 infects 5 
+2 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 9 infects 5 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+10 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 9 infects 6 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+10 did not infect 6 because vaccinated 
+1 8 infects 6 
+10 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 7 infects 6 
+10 did not infect 6 because vaccinated 
+1 7 infects 6 
+2 did not infect 6 because vaccinated 
+2 did not infect 6 because vaccinated 
+1 8 infects 6 
+10 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 8 infects 6 
+1 7 infects 6 
+1 7 infects 6 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+1 9 infects 6 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 7 infects 6 
+2 did not infect 6 because vaccinated 
+1 7 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+1 8 infects 6 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+1 7 infects 6 
+1 8 infects 6 
+1 7 infects 6 
+10 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+0 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+10 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 7 infects 6 
+1 8 infects 6 
+1 8 infects 6 
+1 8 infects 6 
+1 7 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 8 infects 6 
+2 did not infect 6 because vaccinated 
+1 7 infects 6 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 8 infects 6 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+2 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+2 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+4 did not infect 6 because vaccinated 
+2 did not infect 6 because vaccinated 
+10 did not infect 6 because vaccinated 
+1 7 infects 6 
+0 did not infect 6 because vaccinated 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+1 7 infects 6 
+2 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+2 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+1 9 infects 7 
+1 9 infects 7 
+1 9 infects 7 
+1 8 infects 7 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 8 infects 7 
+2 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+1 8 infects 7 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+1 8 infects 7 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 9 infects 7 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 8 infects 7 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+1 8 infects 7 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 9 infects 7 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+1 8 infects 7 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+0 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+0 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+1 9 infects 8 
+2 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 0 because vaccinated 
+1 1 infects 0 
+1 4 infects 0 
+1 3 infects 0 
+1 3 infects 0 
+1 2 infects 0 
+1 1 infects 0 
+10 did not infect 0 because vaccinated 
+1 8 infects 0 
+1 1 infects 0 
+1 9 infects 0 
+1 6 infects 0 
+1 1 infects 0 
+1 3 infects 0 
+1 3 infects 0 
+1 8 infects 0 
+1 9 infects 0 
+1 8 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 8 infects 0 
+1 6 infects 0 
+1 3 infects 0 
+1 7 infects 0 
+1 9 infects 0 
+1 4 infects 0 
+1 2 infects 0 
+1 6 infects 0 
+1 5 infects 0 
+1 4 infects 0 
+1 2 infects 0 
+1 3 infects 0 
+1 5 infects 0 
+1 1 infects 0 
+1 1 infects 0 
+1 6 infects 0 
+1 1 infects 0 
+1 5 infects 0 
+1 5 infects 0 
+1 9 infects 0 
+1 4 infects 0 
+1 7 infects 0 
+1 8 infects 0 
+1 1 infects 0 
+1 6 infects 0 
+1 1 infects 0 
+1 8 infects 0 
+1 4 infects 0 
+10 did not infect 0 because vaccinated 
+1 9 infects 0 
+1 5 infects 0 
+1 9 infects 0 
+1 3 infects 0 
+1 1 infects 0 
+10 did not infect 0 because vaccinated 
+1 3 infects 0 
+1 4 infects 0 
+1 1 infects 0 
+1 3 infects 0 
+1 1 infects 0 
+1 6 infects 0 
+1 4 infects 0 
+1 7 infects 0 
+10 did not infect 0 because vaccinated 
+1 5 infects 0 
+1 2 infects 0 
+1 5 infects 0 
+1 5 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 4 infects 0 
+10 did not infect 0 because vaccinated 
+10 did not infect 0 because vaccinated 
+1 1 infects 0 
+1 9 infects 0 
+10 did not infect 0 because vaccinated 
+1 2 infects 0 
+1 8 infects 0 
+1 3 infects 0 
+1 2 infects 0 
+1 7 infects 0 
+1 6 infects 0 
+1 4 infects 0 
+10 did not infect 0 because vaccinated 
+1 8 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 5 infects 0 
+1 3 infects 0 
+1 5 infects 0 
+1 6 infects 0 
+1 4 infects 0 
+1 1 infects 0 
+1 3 infects 0 
+1 9 infects 0 
+1 5 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 7 infects 0 
+1 6 infects 0 
+10 did not infect 1 because vaccinated 
+1 7 infects 1 
+1 2 infects 1 
+1 4 infects 1 
+1 2 infects 1 
+1 3 infects 1 
+1 8 infects 1 
+1 8 infects 1 
+1 4 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 5 infects 1 
+1 3 infects 1 
+1 2 infects 1 
+1 8 infects 1 
+1 7 infects 1 
+0 did not infect 1 because vaccinated 
+1 2 infects 1 
+10 did not infect 1 because vaccinated 
+1 2 infects 1 
+10 did not infect 1 because vaccinated 
+1 6 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 6 infects 1 
+1 9 infects 1 
+1 7 infects 1 
+1 8 infects 1 
+1 4 infects 1 
+1 8 infects 1 
+0 did not infect 1 because vaccinated 
+10 did not infect 1 because vaccinated 
+10 did not infect 1 because vaccinated 
+1 8 infects 1 
+1 4 infects 1 
+10 did not infect 1 because vaccinated 
+1 5 infects 1 
+1 4 infects 1 
+1 6 infects 1 
+1 2 infects 1 
+1 7 infects 1 
+0 did not infect 1 because vaccinated 
+1 4 infects 1 
+1 8 infects 1 
+1 2 infects 1 
+1 8 infects 1 
+10 did not infect 1 because vaccinated 
+1 4 infects 1 
+10 did not infect 1 because vaccinated 
+1 8 infects 1 
+1 9 infects 1 
+1 3 infects 1 
+1 2 infects 1 
+1 5 infects 1 
+1 2 infects 1 
+1 8 infects 1 
+1 8 infects 1 
+0 did not infect 1 because vaccinated 
+1 9 infects 1 
+1 5 infects 1 
+1 7 infects 1 
+0 did not infect 1 because vaccinated 
+1 5 infects 1 
+1 4 infects 1 
+1 3 infects 1 
+0 did not infect 1 because vaccinated 
+1 3 infects 1 
+1 9 infects 1 
+1 7 infects 1 
+1 8 infects 1 
+1 2 infects 1 
+1 2 infects 1 
+10 did not infect 1 because vaccinated 
+1 7 infects 1 
+1 8 infects 1 
+1 2 infects 1 
+1 4 infects 1 
+1 8 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 3 infects 1 
+1 8 infects 1 
+1 3 infects 1 
+1 4 infects 1 
+1 6 infects 1 
+10 did not infect 1 because vaccinated 
+10 did not infect 1 because vaccinated 
+1 5 infects 1 
+1 7 infects 1 
+1 8 infects 1 
+1 7 infects 1 
+1 3 infects 1 
+1 3 infects 1 
+1 5 infects 1 
+0 did not infect 1 because vaccinated 
+1 9 infects 1 
+1 8 infects 1 
+1 3 infects 1 
+0 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+0 did not infect 2 because vaccinated 
+1 3 infects 2 
+0 did not infect 2 because vaccinated 
+1 5 infects 2 
+1 8 infects 2 
+1 3 infects 2 
+1 4 infects 2 
+10 did not infect 2 because vaccinated 
+1 7 infects 2 
+1 3 infects 2 
+1 8 infects 2 
+1 9 infects 2 
+1 9 infects 2 
+1 7 infects 2 
+1 3 infects 2 
+1 7 infects 2 
+1 6 infects 2 
+1 3 infects 2 
+10 did not infect 2 because vaccinated 
+1 6 infects 2 
+1 5 infects 2 
+1 6 infects 2 
+1 6 infects 2 
+1 7 infects 2 
+0 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+0 did not infect 2 because vaccinated 
+1 6 infects 2 
+1 5 infects 2 
+1 3 infects 2 
+1 3 infects 2 
+1 3 infects 2 
+1 8 infects 2 
+1 7 infects 2 
+1 6 infects 2 
+1 4 infects 2 
+1 7 infects 2 
+1 3 infects 2 
+1 7 infects 2 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+1 3 infects 2 
+1 6 infects 2 
+1 7 infects 2 
+1 7 infects 2 
+1 3 infects 2 
+1 6 infects 2 
+0 did not infect 2 because vaccinated 
+1 6 infects 2 
+0 did not infect 2 because vaccinated 
+1 6 infects 2 
+1 4 infects 2 
+1 7 infects 2 
+1 4 infects 2 
+1 6 infects 2 
+1 8 infects 2 
+10 did not infect 2 because vaccinated 
+1 7 infects 2 
+1 3 infects 2 
+1 4 infects 2 
+1 3 infects 2 
+0 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+1 5 infects 2 
+0 did not infect 2 because vaccinated 
+0 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 7 infects 2 
+1 8 infects 2 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+1 8 infects 2 
+1 9 infects 2 
+10 did not infect 2 because vaccinated 
+1 3 infects 2 
+1 6 infects 2 
+1 9 infects 2 
+1 3 infects 2 
+1 9 infects 2 
+1 9 infects 2 
+0 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 6 infects 2 
+10 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 9 infects 2 
+1 8 infects 2 
+1 5 infects 2 
+1 4 infects 2 
+1 3 infects 2 
+10 did not infect 2 because vaccinated 
+1 4 infects 3 
+1 6 infects 3 
+2 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 7 infects 3 
+1 5 infects 3 
+0 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 9 infects 3 
+1 9 infects 3 
+1 8 infects 3 
+1 8 infects 3 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 5 infects 3 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 8 infects 3 
+1 4 infects 3 
+1 9 infects 3 
+10 did not infect 3 because vaccinated 
+1 8 infects 3 
+0 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 8 infects 3 
+1 4 infects 3 
+10 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 8 infects 3 
+2 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 4 infects 3 
+1 9 infects 3 
+1 5 infects 3 
+10 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 8 infects 3 
+1 7 infects 3 
+1 4 infects 3 
+0 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 6 infects 3 
+1 4 infects 3 
+0 did not infect 3 because vaccinated 
+0 did not infect 3 because vaccinated 
+1 5 infects 3 
+2 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 8 infects 3 
+1 6 infects 3 
+1 8 infects 3 
+0 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 8 infects 3 
+0 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 9 infects 3 
+1 8 infects 3 
+2 did not infect 3 because vaccinated 
+1 6 infects 3 
+2 did not infect 3 because vaccinated 
+0 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 5 infects 3 
+0 did not infect 3 because vaccinated 
+1 5 infects 3 
+10 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 8 infects 3 
+1 6 infects 3 
+1 9 infects 3 
+2 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 6 infects 3 
+0 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 6 infects 3 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 6 infects 3 
+0 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 7 infects 3 
+1 5 infects 3 
+1 4 infects 3 
+0 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 5 infects 4 
+1 5 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 5 infects 4 
+0 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+1 9 infects 4 
+0 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 6 infects 4 
+1 5 infects 4 
+1 5 infects 4 
+1 6 infects 4 
+1 9 infects 4 
+1 8 infects 4 
+1 6 infects 4 
+1 9 infects 4 
+0 did not infect 4 because vaccinated 
+1 6 infects 4 
+0 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 8 infects 4 
+10 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+1 5 infects 4 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 5 infects 4 
+1 9 infects 4 
+1 5 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+10 did not infect 4 because vaccinated 
+1 6 infects 4 
+1 5 infects 4 
+1 6 infects 4 
+1 8 infects 4 
+2 did not infect 4 because vaccinated 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 9 infects 4 
+1 6 infects 4 
+1 8 infects 4 
+0 did not infect 4 because vaccinated 
+1 6 infects 4 
+1 9 infects 4 
+1 9 infects 4 
+10 did not infect 4 because vaccinated 
+1 5 infects 4 
+1 7 infects 4 
+1 7 infects 4 
+1 7 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 7 infects 4 
+2 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+10 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 5 infects 4 
+10 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+0 did not infect 4 because vaccinated 
+0 did not infect 4 because vaccinated 
+1 7 infects 4 
+1 9 infects 4 
+1 7 infects 4 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 6 infects 4 
+1 7 infects 4 
+1 6 infects 4 
+2 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+0 did not infect 4 because vaccinated 
+1 6 infects 4 
+2 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 7 infects 4 
+0 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 7 infects 4 
+2 did not infect 4 because vaccinated 
+1 7 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 8 infects 4 
+1 9 infects 4 
+1 5 infects 4 
+1 7 infects 5 
+1 9 infects 5 
+1 8 infects 5 
+1 6 infects 5 
+1 8 infects 5 
+1 7 infects 5 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 8 infects 5 
+1 7 infects 5 
+10 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 8 infects 5 
+2 did not infect 5 because vaccinated 
+2 did not infect 5 because vaccinated 
+1 6 infects 5 
+2 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 6 infects 5 
+1 8 infects 5 
+1 7 infects 5 
+1 6 infects 5 
+0 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 6 infects 5 
+1 9 infects 5 
+0 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 6 infects 5 
+1 7 infects 5 
+0 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 6 infects 5 
+1 8 infects 5 
+1 8 infects 5 
+1 9 infects 5 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 7 infects 5 
+0 did not infect 5 because vaccinated 
+1 6 infects 5 
+10 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+1 6 infects 5 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+2 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 8 infects 5 
+0 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 9 infects 5 
+1 9 infects 5 
+10 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+1 6 infects 5 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+2 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 7 infects 5 
+1 6 infects 5 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+4 did not infect 5 because vaccinated 
+1 7 infects 5 
+0 did not infect 5 because vaccinated 
+1 8 infects 5 
+0 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+1 9 infects 5 
+2 did not infect 5 because vaccinated 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+10 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+2 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 9 infects 5 
+2 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 9 infects 5 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+10 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 9 infects 6 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+10 did not infect 6 because vaccinated 
+1 8 infects 6 
+10 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 7 infects 6 
+10 did not infect 6 because vaccinated 
+1 7 infects 6 
+2 did not infect 6 because vaccinated 
+2 did not infect 6 because vaccinated 
+1 8 infects 6 
+10 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 8 infects 6 
+1 7 infects 6 
+1 7 infects 6 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+1 9 infects 6 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 7 infects 6 
+2 did not infect 6 because vaccinated 
+1 7 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+1 8 infects 6 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+1 7 infects 6 
+1 8 infects 6 
+1 7 infects 6 
+10 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+0 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+10 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 7 infects 6 
+1 8 infects 6 
+1 8 infects 6 
+1 8 infects 6 
+1 7 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 8 infects 6 
+2 did not infect 6 because vaccinated 
+1 7 infects 6 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 8 infects 6 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+2 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+2 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+4 did not infect 6 because vaccinated 
+2 did not infect 6 because vaccinated 
+10 did not infect 6 because vaccinated 
+1 7 infects 6 
+0 did not infect 6 because vaccinated 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+1 7 infects 6 
+2 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+2 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+1 9 infects 7 
+1 9 infects 7 
+1 9 infects 7 
+1 8 infects 7 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 8 infects 7 
+2 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+1 8 infects 7 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+1 8 infects 7 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 9 infects 7 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 8 infects 7 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+1 8 infects 7 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 9 infects 7 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+1 8 infects 7 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+0 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+0 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+1 9 infects 8 
+2 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 0 because vaccinated 
+1 1 infects 0 
+1 4 infects 0 
+1 3 infects 0 
+1 3 infects 0 
+1 2 infects 0 
+1 1 infects 0 
+10 did not infect 0 because vaccinated 
+1 8 infects 0 
+1 1 infects 0 
+1 9 infects 0 
+1 6 infects 0 
+1 1 infects 0 
+1 3 infects 0 
+1 3 infects 0 
+1 8 infects 0 
+1 9 infects 0 
+1 8 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 8 infects 0 
+1 6 infects 0 
+1 3 infects 0 
+1 7 infects 0 
+1 9 infects 0 
+1 4 infects 0 
+1 2 infects 0 
+1 6 infects 0 
+1 5 infects 0 
+1 4 infects 0 
+1 2 infects 0 
+1 3 infects 0 
+1 5 infects 0 
+1 1 infects 0 
+1 1 infects 0 
+1 6 infects 0 
+1 1 infects 0 
+1 5 infects 0 
+1 5 infects 0 
+1 9 infects 0 
+1 4 infects 0 
+1 7 infects 0 
+1 8 infects 0 
+1 1 infects 0 
+1 6 infects 0 
+1 1 infects 0 
+1 8 infects 0 
+1 4 infects 0 
+10 did not infect 0 because vaccinated 
+1 9 infects 0 
+1 5 infects 0 
+1 9 infects 0 
+1 3 infects 0 
+1 1 infects 0 
+10 did not infect 0 because vaccinated 
+1 3 infects 0 
+1 4 infects 0 
+1 1 infects 0 
+1 3 infects 0 
+1 1 infects 0 
+1 6 infects 0 
+1 4 infects 0 
+1 7 infects 0 
+10 did not infect 0 because vaccinated 
+1 5 infects 0 
+1 2 infects 0 
+1 5 infects 0 
+1 5 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 4 infects 0 
+10 did not infect 0 because vaccinated 
+10 did not infect 0 because vaccinated 
+1 1 infects 0 
+1 9 infects 0 
+10 did not infect 0 because vaccinated 
+1 2 infects 0 
+1 8 infects 0 
+1 3 infects 0 
+1 2 infects 0 
+1 7 infects 0 
+1 6 infects 0 
+1 4 infects 0 
+10 did not infect 0 because vaccinated 
+1 8 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 5 infects 0 
+1 3 infects 0 
+1 5 infects 0 
+1 6 infects 0 
+1 4 infects 0 
+1 1 infects 0 
+1 3 infects 0 
+1 9 infects 0 
+1 5 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 7 infects 0 
+1 6 infects 0 
+10 did not infect 1 because vaccinated 
+1 7 infects 1 
+1 2 infects 1 
+1 4 infects 1 
+1 2 infects 1 
+1 3 infects 1 
+1 8 infects 1 
+1 8 infects 1 
+1 4 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 5 infects 1 
+1 3 infects 1 
+1 2 infects 1 
+1 8 infects 1 
+1 7 infects 1 
+0 did not infect 1 because vaccinated 
+1 2 infects 1 
+10 did not infect 1 because vaccinated 
+1 2 infects 1 
+10 did not infect 1 because vaccinated 
+1 6 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 6 infects 1 
+1 9 infects 1 
+1 7 infects 1 
+1 8 infects 1 
+1 4 infects 1 
+1 8 infects 1 
+0 did not infect 1 because vaccinated 
+10 did not infect 1 because vaccinated 
+10 did not infect 1 because vaccinated 
+1 8 infects 1 
+1 4 infects 1 
+10 did not infect 1 because vaccinated 
+1 5 infects 1 
+1 4 infects 1 
+1 6 infects 1 
+1 2 infects 1 
+1 7 infects 1 
+0 did not infect 1 because vaccinated 
+1 4 infects 1 
+1 8 infects 1 
+1 2 infects 1 
+1 8 infects 1 
+10 did not infect 1 because vaccinated 
+1 4 infects 1 
+10 did not infect 1 because vaccinated 
+1 8 infects 1 
+1 9 infects 1 
+1 3 infects 1 
+1 2 infects 1 
+1 5 infects 1 
+1 2 infects 1 
+1 8 infects 1 
+1 8 infects 1 
+0 did not infect 1 because vaccinated 
+1 9 infects 1 
+1 5 infects 1 
+1 7 infects 1 
+0 did not infect 1 because vaccinated 
+1 5 infects 1 
+1 4 infects 1 
+1 3 infects 1 
+0 did not infect 1 because vaccinated 
+1 3 infects 1 
+1 9 infects 1 
+1 7 infects 1 
+1 8 infects 1 
+1 2 infects 1 
+1 2 infects 1 
+10 did not infect 1 because vaccinated 
+1 7 infects 1 
+1 8 infects 1 
+1 2 infects 1 
+1 4 infects 1 
+1 8 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 3 infects 1 
+1 8 infects 1 
+1 3 infects 1 
+1 4 infects 1 
+1 6 infects 1 
+10 did not infect 1 because vaccinated 
+10 did not infect 1 because vaccinated 
+1 5 infects 1 
+1 7 infects 1 
+1 8 infects 1 
+1 7 infects 1 
+1 3 infects 1 
+1 3 infects 1 
+1 5 infects 1 
+0 did not infect 1 because vaccinated 
+1 9 infects 1 
+1 8 infects 1 
+1 3 infects 1 
+0 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+0 did not infect 2 because vaccinated 
+1 3 infects 2 
+0 did not infect 2 because vaccinated 
+1 5 infects 2 
+1 8 infects 2 
+1 3 infects 2 
+1 4 infects 2 
+10 did not infect 2 because vaccinated 
+1 7 infects 2 
+1 3 infects 2 
+1 8 infects 2 
+1 9 infects 2 
+1 9 infects 2 
+1 7 infects 2 
+1 3 infects 2 
+1 7 infects 2 
+1 6 infects 2 
+1 3 infects 2 
+10 did not infect 2 because vaccinated 
+1 6 infects 2 
+1 5 infects 2 
+1 6 infects 2 
+1 6 infects 2 
+1 7 infects 2 
+0 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+0 did not infect 2 because vaccinated 
+1 6 infects 2 
+1 5 infects 2 
+1 3 infects 2 
+1 3 infects 2 
+1 3 infects 2 
+1 8 infects 2 
+1 7 infects 2 
+1 6 infects 2 
+1 4 infects 2 
+1 7 infects 2 
+1 3 infects 2 
+1 7 infects 2 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+1 3 infects 2 
+1 6 infects 2 
+1 7 infects 2 
+1 7 infects 2 
+1 3 infects 2 
+1 6 infects 2 
+0 did not infect 2 because vaccinated 
+1 6 infects 2 
+0 did not infect 2 because vaccinated 
+1 6 infects 2 
+1 4 infects 2 
+1 7 infects 2 
+1 4 infects 2 
+1 6 infects 2 
+1 8 infects 2 
+10 did not infect 2 because vaccinated 
+1 7 infects 2 
+1 3 infects 2 
+1 4 infects 2 
+1 3 infects 2 
+0 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+1 5 infects 2 
+0 did not infect 2 because vaccinated 
+0 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 7 infects 2 
+1 8 infects 2 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+1 8 infects 2 
+1 9 infects 2 
+10 did not infect 2 because vaccinated 
+1 3 infects 2 
+1 6 infects 2 
+1 9 infects 2 
+1 3 infects 2 
+1 9 infects 2 
+1 9 infects 2 
+0 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 6 infects 2 
+10 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 9 infects 2 
+1 8 infects 2 
+1 5 infects 2 
+1 4 infects 2 
+1 3 infects 2 
+10 did not infect 2 because vaccinated 
+1 4 infects 3 
+1 6 infects 3 
+2 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 7 infects 3 
+1 5 infects 3 
+0 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 9 infects 3 
+1 9 infects 3 
+1 8 infects 3 
+1 8 infects 3 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 5 infects 3 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 8 infects 3 
+1 4 infects 3 
+1 9 infects 3 
+10 did not infect 3 because vaccinated 
+1 8 infects 3 
+0 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 8 infects 3 
+1 4 infects 3 
+10 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 8 infects 3 
+2 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 4 infects 3 
+1 9 infects 3 
+1 5 infects 3 
+10 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 8 infects 3 
+1 7 infects 3 
+1 4 infects 3 
+0 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 6 infects 3 
+1 4 infects 3 
+0 did not infect 3 because vaccinated 
+0 did not infect 3 because vaccinated 
+1 5 infects 3 
+2 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 8 infects 3 
+1 6 infects 3 
+1 8 infects 3 
+0 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 8 infects 3 
+0 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 9 infects 3 
+1 8 infects 3 
+2 did not infect 3 because vaccinated 
+1 6 infects 3 
+2 did not infect 3 because vaccinated 
+0 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 5 infects 3 
+0 did not infect 3 because vaccinated 
+1 5 infects 3 
+10 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 8 infects 3 
+1 6 infects 3 
+1 9 infects 3 
+2 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 6 infects 3 
+0 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 6 infects 3 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 6 infects 3 
+0 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 7 infects 3 
+1 5 infects 3 
+1 4 infects 3 
+0 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 5 infects 4 
+1 5 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 5 infects 4 
+0 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+1 9 infects 4 
+0 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 6 infects 4 
+1 5 infects 4 
+1 5 infects 4 
+1 6 infects 4 
+1 9 infects 4 
+1 8 infects 4 
+1 6 infects 4 
+1 9 infects 4 
+0 did not infect 4 because vaccinated 
+1 6 infects 4 
+0 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 8 infects 4 
+10 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+1 5 infects 4 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 5 infects 4 
+1 9 infects 4 
+1 5 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+10 did not infect 4 because vaccinated 
+1 6 infects 4 
+1 5 infects 4 
+1 6 infects 4 
+1 8 infects 4 
+2 did not infect 4 because vaccinated 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 9 infects 4 
+1 6 infects 4 
+1 8 infects 4 
+0 did not infect 4 because vaccinated 
+1 6 infects 4 
+1 9 infects 4 
+1 9 infects 4 
+10 did not infect 4 because vaccinated 
+1 5 infects 4 
+1 7 infects 4 
+1 7 infects 4 
+1 7 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 7 infects 4 
+2 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+10 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 5 infects 4 
+10 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+0 did not infect 4 because vaccinated 
+0 did not infect 4 because vaccinated 
+1 7 infects 4 
+1 9 infects 4 
+1 7 infects 4 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 6 infects 4 
+1 7 infects 4 
+1 6 infects 4 
+2 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+0 did not infect 4 because vaccinated 
+1 6 infects 4 
+2 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 7 infects 4 
+0 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 7 infects 4 
+2 did not infect 4 because vaccinated 
+1 7 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 8 infects 4 
+1 9 infects 4 
+1 5 infects 4 
+1 7 infects 5 
+1 9 infects 5 
+1 8 infects 5 
+1 6 infects 5 
+1 8 infects 5 
+1 7 infects 5 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 8 infects 5 
+1 7 infects 5 
+10 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 8 infects 5 
+2 did not infect 5 because vaccinated 
+2 did not infect 5 because vaccinated 
+1 6 infects 5 
+2 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 6 infects 5 
+1 8 infects 5 
+1 7 infects 5 
+1 6 infects 5 
+0 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 6 infects 5 
+1 9 infects 5 
+0 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 6 infects 5 
+1 7 infects 5 
+0 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 6 infects 5 
+1 8 infects 5 
+1 8 infects 5 
+1 9 infects 5 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 7 infects 5 
+0 did not infect 5 because vaccinated 
+1 6 infects 5 
+10 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+1 6 infects 5 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+2 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 8 infects 5 
+0 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 9 infects 5 
+1 9 infects 5 
+10 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+1 6 infects 5 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+2 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 7 infects 5 
+1 6 infects 5 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+4 did not infect 5 because vaccinated 
+1 7 infects 5 
+0 did not infect 5 because vaccinated 
+1 8 infects 5 
+0 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+1 9 infects 5 
+2 did not infect 5 because vaccinated 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+10 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+2 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 9 infects 5 
+2 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 9 infects 5 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+10 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 9 infects 6 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+10 did not infect 6 because vaccinated 
+1 8 infects 6 
+10 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 7 infects 6 
+10 did not infect 6 because vaccinated 
+1 7 infects 6 
+2 did not infect 6 because vaccinated 
+2 did not infect 6 because vaccinated 
+1 8 infects 6 
+10 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 8 infects 6 
+1 7 infects 6 
+1 7 infects 6 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+1 9 infects 6 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 7 infects 6 
+2 did not infect 6 because vaccinated 
+1 7 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+1 8 infects 6 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+1 7 infects 6 
+1 8 infects 6 
+1 7 infects 6 
+10 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+0 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+10 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 7 infects 6 
+1 8 infects 6 
+1 8 infects 6 
+1 8 infects 6 
+1 7 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 8 infects 6 
+2 did not infect 6 because vaccinated 
+1 7 infects 6 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 8 infects 6 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+2 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+2 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+4 did not infect 6 because vaccinated 
+2 did not infect 6 because vaccinated 
+10 did not infect 6 because vaccinated 
+1 7 infects 6 
+0 did not infect 6 because vaccinated 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+1 7 infects 6 
+2 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+2 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+1 9 infects 7 
+1 9 infects 7 
+1 9 infects 7 
+1 8 infects 7 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 8 infects 7 
+2 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+1 8 infects 7 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+1 8 infects 7 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 9 infects 7 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 8 infects 7 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+1 8 infects 7 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 9 infects 7 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+1 8 infects 7 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+0 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+0 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+1 9 infects 8 
+2 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 0 because vaccinated 
+1 1 infects 0 
+1 4 infects 0 
+1 3 infects 0 
+1 3 infects 0 
+1 2 infects 0 
+1 1 infects 0 
+10 did not infect 0 because vaccinated 
+1 8 infects 0 
+1 1 infects 0 
+1 9 infects 0 
+1 6 infects 0 
+1 1 infects 0 
+1 3 infects 0 
+1 3 infects 0 
+1 8 infects 0 
+1 9 infects 0 
+1 8 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 8 infects 0 
+1 6 infects 0 
+1 3 infects 0 
+1 7 infects 0 
+1 9 infects 0 
+1 4 infects 0 
+1 2 infects 0 
+1 6 infects 0 
+1 5 infects 0 
+1 4 infects 0 
+1 2 infects 0 
+1 3 infects 0 
+1 5 infects 0 
+1 1 infects 0 
+1 1 infects 0 
+1 6 infects 0 
+1 1 infects 0 
+1 5 infects 0 
+1 5 infects 0 
+1 9 infects 0 
+1 4 infects 0 
+1 7 infects 0 
+1 8 infects 0 
+1 1 infects 0 
+1 6 infects 0 
+1 1 infects 0 
+1 8 infects 0 
+1 4 infects 0 
+10 did not infect 0 because vaccinated 
+1 9 infects 0 
+1 5 infects 0 
+1 9 infects 0 
+1 3 infects 0 
+1 1 infects 0 
+10 did not infect 0 because vaccinated 
+1 3 infects 0 
+1 4 infects 0 
+1 1 infects 0 
+1 3 infects 0 
+1 1 infects 0 
+1 6 infects 0 
+1 4 infects 0 
+1 7 infects 0 
+10 did not infect 0 because vaccinated 
+1 5 infects 0 
+1 2 infects 0 
+1 5 infects 0 
+1 5 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 4 infects 0 
+10 did not infect 0 because vaccinated 
+10 did not infect 0 because vaccinated 
+1 1 infects 0 
+1 9 infects 0 
+10 did not infect 0 because vaccinated 
+1 2 infects 0 
+1 8 infects 0 
+1 3 infects 0 
+1 2 infects 0 
+1 7 infects 0 
+1 6 infects 0 
+1 4 infects 0 
+10 did not infect 0 because vaccinated 
+1 8 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 5 infects 0 
+1 3 infects 0 
+1 5 infects 0 
+1 6 infects 0 
+1 4 infects 0 
+1 1 infects 0 
+1 3 infects 0 
+1 9 infects 0 
+1 5 infects 0 
+1 3 infects 0 
+10 did not infect 0 because vaccinated 
+1 7 infects 0 
+1 6 infects 0 
+10 did not infect 1 because vaccinated 
+1 7 infects 1 
+1 2 infects 1 
+1 4 infects 1 
+1 2 infects 1 
+1 3 infects 1 
+1 8 infects 1 
+1 8 infects 1 
+1 4 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 5 infects 1 
+1 3 infects 1 
+1 2 infects 1 
+1 8 infects 1 
+1 7 infects 1 
+0 did not infect 1 because vaccinated 
+1 2 infects 1 
+10 did not infect 1 because vaccinated 
+1 2 infects 1 
+10 did not infect 1 because vaccinated 
+1 6 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 6 infects 1 
+1 9 infects 1 
+1 7 infects 1 
+1 8 infects 1 
+1 4 infects 1 
+1 8 infects 1 
+0 did not infect 1 because vaccinated 
+10 did not infect 1 because vaccinated 
+10 did not infect 1 because vaccinated 
+1 8 infects 1 
+1 4 infects 1 
+10 did not infect 1 because vaccinated 
+1 5 infects 1 
+1 4 infects 1 
+1 6 infects 1 
+1 2 infects 1 
+1 7 infects 1 
+0 did not infect 1 because vaccinated 
+1 4 infects 1 
+1 8 infects 1 
+1 2 infects 1 
+1 8 infects 1 
+10 did not infect 1 because vaccinated 
+1 4 infects 1 
+10 did not infect 1 because vaccinated 
+1 8 infects 1 
+1 9 infects 1 
+1 3 infects 1 
+1 2 infects 1 
+1 5 infects 1 
+1 2 infects 1 
+1 8 infects 1 
+1 8 infects 1 
+0 did not infect 1 because vaccinated 
+1 9 infects 1 
+1 5 infects 1 
+1 7 infects 1 
+0 did not infect 1 because vaccinated 
+1 5 infects 1 
+1 4 infects 1 
+1 3 infects 1 
+0 did not infect 1 because vaccinated 
+1 3 infects 1 
+1 9 infects 1 
+1 7 infects 1 
+1 8 infects 1 
+1 2 infects 1 
+1 2 infects 1 
+10 did not infect 1 because vaccinated 
+1 7 infects 1 
+1 8 infects 1 
+1 2 infects 1 
+1 4 infects 1 
+1 8 infects 1 
+1 9 infects 1 
+1 6 infects 1 
+1 3 infects 1 
+1 8 infects 1 
+1 3 infects 1 
+1 4 infects 1 
+1 6 infects 1 
+10 did not infect 1 because vaccinated 
+10 did not infect 1 because vaccinated 
+1 5 infects 1 
+1 7 infects 1 
+1 8 infects 1 
+1 7 infects 1 
+1 3 infects 1 
+1 3 infects 1 
+1 5 infects 1 
+0 did not infect 1 because vaccinated 
+1 9 infects 1 
+1 8 infects 1 
+1 3 infects 1 
+0 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+0 did not infect 2 because vaccinated 
+1 3 infects 2 
+0 did not infect 2 because vaccinated 
+1 5 infects 2 
+1 8 infects 2 
+1 3 infects 2 
+1 4 infects 2 
+10 did not infect 2 because vaccinated 
+1 7 infects 2 
+1 3 infects 2 
+1 8 infects 2 
+1 9 infects 2 
+1 9 infects 2 
+1 7 infects 2 
+1 3 infects 2 
+1 7 infects 2 
+1 6 infects 2 
+1 3 infects 2 
+10 did not infect 2 because vaccinated 
+1 6 infects 2 
+1 5 infects 2 
+1 6 infects 2 
+1 6 infects 2 
+1 7 infects 2 
+0 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+0 did not infect 2 because vaccinated 
+1 6 infects 2 
+1 5 infects 2 
+1 3 infects 2 
+1 3 infects 2 
+1 3 infects 2 
+1 8 infects 2 
+1 7 infects 2 
+1 6 infects 2 
+1 4 infects 2 
+1 7 infects 2 
+1 3 infects 2 
+1 7 infects 2 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+10 did not infect 2 because vaccinated 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+1 3 infects 2 
+1 6 infects 2 
+1 7 infects 2 
+1 7 infects 2 
+1 3 infects 2 
+1 6 infects 2 
+0 did not infect 2 because vaccinated 
+1 6 infects 2 
+0 did not infect 2 because vaccinated 
+1 6 infects 2 
+1 4 infects 2 
+1 7 infects 2 
+1 4 infects 2 
+1 6 infects 2 
+1 8 infects 2 
+10 did not infect 2 because vaccinated 
+1 7 infects 2 
+1 3 infects 2 
+1 4 infects 2 
+1 3 infects 2 
+0 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+1 5 infects 2 
+0 did not infect 2 because vaccinated 
+0 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 7 infects 2 
+1 8 infects 2 
+1 8 infects 2 
+0 did not infect 2 because vaccinated 
+1 8 infects 2 
+1 9 infects 2 
+10 did not infect 2 because vaccinated 
+1 3 infects 2 
+1 6 infects 2 
+1 9 infects 2 
+1 3 infects 2 
+1 9 infects 2 
+1 9 infects 2 
+0 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 6 infects 2 
+10 did not infect 2 because vaccinated 
+1 9 infects 2 
+1 9 infects 2 
+1 8 infects 2 
+1 5 infects 2 
+1 4 infects 2 
+1 3 infects 2 
+10 did not infect 2 because vaccinated 
+1 4 infects 3 
+1 6 infects 3 
+2 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 7 infects 3 
+1 5 infects 3 
+0 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 9 infects 3 
+1 9 infects 3 
+1 8 infects 3 
+1 8 infects 3 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 5 infects 3 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 8 infects 3 
+1 4 infects 3 
+1 9 infects 3 
+10 did not infect 3 because vaccinated 
+1 8 infects 3 
+0 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 8 infects 3 
+1 4 infects 3 
+10 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 8 infects 3 
+2 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 4 infects 3 
+1 9 infects 3 
+1 5 infects 3 
+10 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 8 infects 3 
+1 7 infects 3 
+1 4 infects 3 
+0 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 6 infects 3 
+1 4 infects 3 
+0 did not infect 3 because vaccinated 
+0 did not infect 3 because vaccinated 
+1 5 infects 3 
+2 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 8 infects 3 
+1 6 infects 3 
+1 8 infects 3 
+0 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 8 infects 3 
+0 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 9 infects 3 
+1 8 infects 3 
+2 did not infect 3 because vaccinated 
+1 6 infects 3 
+2 did not infect 3 because vaccinated 
+0 did not infect 3 because vaccinated 
+1 4 infects 3 
+1 5 infects 3 
+0 did not infect 3 because vaccinated 
+1 5 infects 3 
+10 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 8 infects 3 
+1 6 infects 3 
+1 9 infects 3 
+2 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 6 infects 3 
+0 did not infect 3 because vaccinated 
+2 did not infect 3 because vaccinated 
+1 5 infects 3 
+1 6 infects 3 
+10 did not infect 3 because vaccinated 
+1 4 infects 3 
+2 did not infect 3 because vaccinated 
+1 6 infects 3 
+0 did not infect 3 because vaccinated 
+1 7 infects 3 
+1 7 infects 3 
+1 5 infects 3 
+1 4 infects 3 
+0 did not infect 3 because vaccinated 
+10 did not infect 3 because vaccinated 
+1 5 infects 4 
+1 5 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 5 infects 4 
+0 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+1 9 infects 4 
+0 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 6 infects 4 
+1 5 infects 4 
+1 5 infects 4 
+1 6 infects 4 
+1 9 infects 4 
+1 8 infects 4 
+1 6 infects 4 
+1 9 infects 4 
+0 did not infect 4 because vaccinated 
+1 6 infects 4 
+0 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 8 infects 4 
+10 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+1 5 infects 4 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 5 infects 4 
+1 9 infects 4 
+1 5 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+10 did not infect 4 because vaccinated 
+1 6 infects 4 
+1 5 infects 4 
+1 6 infects 4 
+1 8 infects 4 
+2 did not infect 4 because vaccinated 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 9 infects 4 
+1 6 infects 4 
+1 8 infects 4 
+0 did not infect 4 because vaccinated 
+1 6 infects 4 
+1 9 infects 4 
+1 9 infects 4 
+10 did not infect 4 because vaccinated 
+1 5 infects 4 
+1 7 infects 4 
+1 7 infects 4 
+1 7 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 7 infects 4 
+2 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+10 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 5 infects 4 
+10 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+0 did not infect 4 because vaccinated 
+0 did not infect 4 because vaccinated 
+1 7 infects 4 
+1 9 infects 4 
+1 7 infects 4 
+1 6 infects 4 
+10 did not infect 4 because vaccinated 
+1 9 infects 4 
+1 6 infects 4 
+1 7 infects 4 
+1 6 infects 4 
+2 did not infect 4 because vaccinated 
+10 did not infect 4 because vaccinated 
+0 did not infect 4 because vaccinated 
+1 6 infects 4 
+2 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 7 infects 4 
+0 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 7 infects 4 
+2 did not infect 4 because vaccinated 
+1 7 infects 4 
+10 did not infect 4 because vaccinated 
+1 8 infects 4 
+1 8 infects 4 
+1 9 infects 4 
+1 5 infects 4 
+1 7 infects 5 
+1 9 infects 5 
+1 8 infects 5 
+1 6 infects 5 
+1 8 infects 5 
+1 7 infects 5 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 8 infects 5 
+1 7 infects 5 
+10 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 8 infects 5 
+2 did not infect 5 because vaccinated 
+2 did not infect 5 because vaccinated 
+1 6 infects 5 
+2 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 6 infects 5 
+1 8 infects 5 
+1 7 infects 5 
+1 6 infects 5 
+0 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 6 infects 5 
+1 9 infects 5 
+0 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 6 infects 5 
+1 7 infects 5 
+0 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 6 infects 5 
+1 8 infects 5 
+1 8 infects 5 
+1 9 infects 5 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 7 infects 5 
+0 did not infect 5 because vaccinated 
+1 6 infects 5 
+10 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+1 6 infects 5 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+2 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 8 infects 5 
+0 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 9 infects 5 
+1 9 infects 5 
+10 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+1 6 infects 5 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+2 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+1 7 infects 5 
+1 6 infects 5 
+4 did not infect 5 because vaccinated 
+1 6 infects 5 
+4 did not infect 5 because vaccinated 
+1 7 infects 5 
+0 did not infect 5 because vaccinated 
+1 8 infects 5 
+0 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+10 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+0 did not infect 5 because vaccinated 
+1 9 infects 5 
+2 did not infect 5 because vaccinated 
+2 did not infect 5 because vaccinated 
+1 7 infects 5 
+10 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 7 infects 5 
+4 did not infect 5 because vaccinated 
+2 did not infect 5 because vaccinated 
+1 9 infects 5 
+1 9 infects 5 
+2 did not infect 5 because vaccinated 
+4 did not infect 5 because vaccinated 
+1 9 infects 5 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+10 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 9 infects 6 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+10 did not infect 6 because vaccinated 
+1 8 infects 6 
+10 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 7 infects 6 
+10 did not infect 6 because vaccinated 
+1 7 infects 6 
+2 did not infect 6 because vaccinated 
+2 did not infect 6 because vaccinated 
+1 8 infects 6 
+10 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 8 infects 6 
+1 7 infects 6 
+1 7 infects 6 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+1 9 infects 6 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 7 infects 6 
+2 did not infect 6 because vaccinated 
+1 7 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+1 8 infects 6 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+1 7 infects 6 
+1 8 infects 6 
+1 7 infects 6 
+10 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+0 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+10 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 7 infects 6 
+1 8 infects 6 
+1 8 infects 6 
+1 8 infects 6 
+1 7 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 8 infects 6 
+2 did not infect 6 because vaccinated 
+1 7 infects 6 
+4 did not infect 6 because vaccinated 
+1 9 infects 6 
+1 8 infects 6 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+2 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+2 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+1 8 infects 6 
+4 did not infect 6 because vaccinated 
+2 did not infect 6 because vaccinated 
+10 did not infect 6 because vaccinated 
+1 7 infects 6 
+0 did not infect 6 because vaccinated 
+1 9 infects 6 
+4 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+1 7 infects 6 
+2 did not infect 6 because vaccinated 
+0 did not infect 6 because vaccinated 
+4 did not infect 6 because vaccinated 
+1 7 infects 6 
+1 7 infects 6 
+1 9 infects 6 
+10 did not infect 6 because vaccinated 
+2 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+1 9 infects 7 
+1 9 infects 7 
+1 9 infects 7 
+1 8 infects 7 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 8 infects 7 
+2 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+1 8 infects 7 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+1 8 infects 7 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+1 9 infects 7 
+4 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 9 infects 7 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 9 infects 7 
+0 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 8 infects 7 
+10 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+1 8 infects 7 
+1 9 infects 7 
+10 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+0 did not infect 7 because vaccinated 
+10 did not infect 7 because vaccinated 
+1 9 infects 7 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+1 8 infects 7 
+0 did not infect 7 because vaccinated 
+1 8 infects 7 
+10 did not infect 7 because vaccinated 
+2 did not infect 7 because vaccinated 
+4 did not infect 7 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+0 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+0 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+1 9 infects 8 
+2 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+1 9 infects 8 
+10 did not infect 8 because vaccinated 
+1 9 infects 8 
+4 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+10 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+0 did not infect 8 because vaccinated 
+1 9 infects 8 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 8 because vaccinated 
+2 did not infect 8 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+10 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
+4 did not infect 9 because vaccinated 
+0 did not infect 9 because vaccinated 
+2 did not infect 9 because vaccinated 
