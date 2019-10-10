@@ -76,19 +76,13 @@ class Logger(object):
         # represent all the possible edge cases. Use the values passed along with each person,
         # along with whether they are sick or vaccinated when they interact to determine
         # exactly what happened in the interaction and create a String, and write to your logfile.
-
-        # self._id = _id  # int
-        # self.is_alive = True  # boolean
-        # self.is_vaccinated = is_vaccinated  # boolean
-        # self.infection = infection  # Virus object or None
-
         # A sick person only has a chance at infecting healthy, unvaccinated people they encounter.
         file = open(self.file_name, 'a')
         if did_infect:
             file.write(f'{random_person._id} did not infect {person._id} because already sick \n')
         else:
             if random_person_sick:
-                file.write(f'1 {random_person._id} infects {person._id} \n')
+                file.write(f'{random_person._id} infects {person._id} \n')
             elif random_person_vacc:
                 file.write(f'{random_person._id} did not infect {person._id} because vaccinated \n')
 
@@ -99,13 +93,14 @@ class Logger(object):
         The format of the log should be:
             "{person.ID} died from infection\n" or "{person.ID} survived infection.\n"
         '''
+        print("In log infection", person)
+        print("In log infection", did_die_from_infection)
         file = open(self.file_name, 'a')
-        if person.is_alive:
-            did_die_from_infection = False
-            file.write(f'{person.ID} survived infection.\n')
+        if did_die_from_infection:
+            file.write(f'{person._id} died from infection\n')
         else:
-            did_die_from_infection = True
-            file.write(f'{person.ID} died from infection\n')
+            file.write(f'{person._id} survived infection.\n')
+
         # TODO: Finish this method. If the person survives, did_die_from_infection
         # should be False.  Otherwise, did_die_from_infection should be True.
         # Append the results of the infection to the logfile
@@ -133,13 +128,16 @@ class Logger(object):
 if __name__ == "__main__":
     logger = Logger('answers.txt')
     logger.write_metadata(100000, 0.90, 'Ebola', 0.70, 0.25)
-    logger.write_currentinfect_and_dead(current_infected, total_dead)
+
+    # logger.write_currentinfect_and_dead(current_infected, total_dead)
 
     # virus ( name, repro_rate, mortality_rate)
     # person (_id, is_vaccinated, infection=None)
 
     dysentery = Virus("Dysentery", 0.7, 0.2)
     person = Person(4, False)
+
+    logger.log_infection_survival(person, True)
 
     bubonic_Plague = Virus("bubonic Plague", 1, 0.6)
     random_person = Person(2, False)

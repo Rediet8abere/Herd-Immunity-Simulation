@@ -1,0 +1,7 @@
+Input data for the simulation: 
+
+       Population size = 100 
+       percent vaccinated = 0.5 
+       virus name: Chicken Pox 
+       mortality_rate = 0.1 
+       reproductive rate = 0.2 

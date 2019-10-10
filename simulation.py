@@ -151,25 +151,27 @@ class Simulation(object):
         self.logger.write_metadata(self.pop_size, self.vacc_percentage, self.virus.name, self.virus.mortality_rate, self.virus.repro_rate)
         # self.saved = 0
         for person in self.population:
-            print(f"currently infected before.......................... interaction: {self.current_infected}")
+            # print(f"currently infected before.......................... interaction: {self.current_infected}")
             if person.infection and person.is_alive:
                 for num in range(100):
                     random_person = self._random_person(person._id)
                     self.interaction(person, random_person)
                 survive = person.did_survive_infection()
-                # self.logger.log_infection_survival(person, survive)
+                print("before logger", person, survive)
+                self.logger.log_infection_survival(person, survive)
+                print("after logger", person, survive)
                 if not survive:
                     self.total_dead += 1
-                    print(f"total dead {self.total_dead}")
-                    print("total dead incremented...................................")
+                    # print(f"total dead {self.total_dead}")
+                    # print("total dead incremented...................................")
 
                 else:
                     self.vaccinated += 1
-                    print(f"vaccinate {self.vaccinated}")
-                    print("vaccinated incrematened ......................................")
+                    # print(f"vaccinate {self.vaccinated}")
+                    # print("vaccinated incrematened ......................................")
                 self.current_infected -= 1
                 # self.saved -= 1
-            print(f"currently infected after>>>>>>>>>>>>>>>>>>>>> interaction: {self.current_infected}")
+            # print(f"currently infected after>>>>>>>>>>>>>>>>>>>>> interaction: {self.current_infected}")
 
         self._infect_newly_infected()
         # self.logger.log_time_step()
