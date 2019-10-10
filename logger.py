@@ -74,21 +74,6 @@ class Logger(object):
             elif random_person_vacc:
                 file.write(f'{random_person._id} did not infect {person._id} because vaccinated \n')
 
-
-        # print(person._id)
-        # if person.infection is None and random_person.infection is None and person.is_vaccinated and random_person.is_vaccinated:
-        #     answers.write('1 ' + str(person._id) + ' and ' + str(random_person._id) +' healthy and vaccinated')
-        #     # if they are both infected you can remove the is vaccinated property
-        # elif person.infection is not None and random_person.infection is not None and person.is_vaccinated is False and random_person.is_vaccinated is False:
-        #     answers.write('2 '+ str(person._id) + ' and ' + str(random_person._id) + ' are infected and not vaccinated')
-        # elif person.infection is not None and random_person.infection is not None and person.is_vaccinated and random_person.is_vaccinated:
-        #     answers.write('3 ' + str(person._id) + ' and '+  str(random_person._id) + ' are infected but vaccinated')
-        # elif person.infection is None and random_person.infection is None and person.is_vaccinated is False and random_person.is_vaccinated is False:
-        #     answers.write('4 ' + str(person._id) + ' and '+  str(random_person._id) +' are not infected and not vaccinated')
-        # elif person.infection is None and random_person.infection is None and person.is_vaccinated is False and random_person.is_vaccinated is False:
-        #     answers.write('5 ' + str(person._id) + ' and '+  str(random_person._id) +' are not infected and not vaccinated')
-
-
     def log_infection_survival(self, person, did_die_from_infection):
         ''' The Simulation object uses this method to log the results of every
         call of a Person object's .resolve_infection() method.
