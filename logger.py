@@ -113,7 +113,7 @@ class Logger(object):
         pass
 
 if __name__ == "__main__":
-    logger = Logger('test_main.txt')
+    logger = Logger('answers.txt')
     logger.write_metadata(100000, 0.90, 'Ebola', 0.70, 0.25)
 
     # virus ( name, repro_rate, mortality_rate)
