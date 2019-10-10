@@ -20,20 +20,32 @@ class Logger(object):
         The simulation class should use this method immediately to log the specific
         parameters of the simulation as the first line of the file.
         '''
-        print(f'file name, {self.file_name}')
-        file  = open(self.file_name, 'w')
-        # file = open(self.file_name, 'a')
+        file = open('answers.txt', 'w')
+        file.write("Input data for the simulation: \n")
+        file.write("\n")
+        file.write(f"       Population size = {str(pop_size)} \n")
+        file.write(f"       percent vaccinated = {str(vacc_percentage)} \n")
+        file.write(f"       virus name: {str(virus_name)} \n")
+        file.write(f"       mortality_rate = {str(mortality_rate)} \n")
+        file.write(f"       reproductive rate = {str(basic_repro_num)} \n")
+        file.close()
+        # self.write_currentinfect_and_dead(current_infected, total_dead)
 
-        file.write(f" {str(pop_size)} \n")
-        file.write(f" {str(vacc_percentage)} \n")
-        file.write(f" {str(virus_name)} \n")
-        file.write(f"{str(mortality_rate)} \n")
-        file.write(f"{str(basic_repro_num)} \n")
+        file  = open(self.file_name, 'w')
+        file.write("Input data for the simulation: \n")
+        file.write("\n")
+        file.write(f"       Population size = {str(pop_size)} \n")
+        file.write(f"       percent vaccinated = {str(vacc_percentage)} \n")
+        file.write(f"       virus name: {str(virus_name)} \n")
+        file.write(f"       mortality_rate = {str(mortality_rate)} \n")
+        file.write(f"       reproductive rate = {str(basic_repro_num)} \n")
         file.close()
 
-        with open(self.file_name) as file:
-            content = file.read().split("\n")
-            print(content)
+        # file = open(self.file_name, 'a')
+
+
+        # with open(self.file_name) as file:
+        #     content = file.read().split("\n")
 
         # TODO: Finish this method. This line of metadata should be tab-delimited
         # it should create the text file that we will store all logs in.
@@ -41,6 +53,12 @@ class Logger(object):
         # the 'a' mode to append a new log to the end, since 'w' overwrites the file.
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
+    def write_currentinfect_and_dead(self, current_infected, total_dead, pop_size, saved, total_infected):
+        file = open('answers.txt', 'a')
+        file.write(f"       total percentage of dead Population = {str(round((total_dead/pop_size)*100))}% \n")
+        file.write(f"       total interaction with infected person where a vaccination saved a random person from potentially becoming infected = {str(saved)} \n")
+        file.write(f"       percentage of population infected at some point before the virus burned out {str(total_infected)}")
+
 
 
     def log_interaction(self, person, random_person, random_person_sick=None,
@@ -115,6 +133,7 @@ class Logger(object):
 if __name__ == "__main__":
     logger = Logger('answers.txt')
     logger.write_metadata(100000, 0.90, 'Ebola', 0.70, 0.25)
+    logger.write_currentinfect_and_dead(current_infected, total_dead)
 
     # virus ( name, repro_rate, mortality_rate)
     # person (_id, is_vaccinated, infection=None)
@@ -153,9 +172,3 @@ def test_log_interaction():
     random_person = Person(2, True, bubonic_Plague)
     # person.infection is not None and random_person.is_vaccinated == False
     logger.log_interaction(person, random_person, random_person_sick=None, random_person_vacc=None, did_infect=None)
-
-
-    # with open('answers.txt') as f:
-    #     content = f.read().split("\n")
-    #     answers.write({person._id} + 'did not infect'+  {random_person._id} + 'because'+  {person._id} + 'already sick' + '\n')
-    #     assert content[5] == '{person._id} ,'did not infect'+  {random_person._id} ,'because', {person._id} ,'already sick''

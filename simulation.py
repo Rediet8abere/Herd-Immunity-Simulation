@@ -43,7 +43,7 @@ class Simulation(object):
 
         self.virus = virus # Virus object
         self.initial_infected = initial_infected # Int
-        self.total_infected = initial_infected # Int
+        self.total_infected = 0 # Int
         self.current_infected = initial_infected # Int
 
         self.vacc_percentage = vacc_percentage # float between 0 and 1
@@ -54,6 +54,7 @@ class Simulation(object):
         self.logger = Logger(self.file_name)
         self.population = self._create_population(self.initial_infected) # List of Person objects
         self.vaccinated = round((self.pop_size - self.initial_infected) * self.vacc_percentage)
+        self.saved = 0
 
 
 
@@ -98,8 +99,10 @@ class Simulation(object):
         # TODO: Complete this helper method.  Returns a Boolean.
         # self population is a list of person\
         print(f" self.vaccinated in simulation {self.vaccinated}")
+        print(f" self.total_dead in simulation {self.total_dead}")
         print(f'should be equal to total population {self.vaccinated + self.total_dead}')
         if self.vaccinated + self.total_dead >= self.pop_size:
+            self.logger.write_currentinfect_and_dead(self.vaccinated, self.total_dead, self.pop_size, self.saved, self.total_infected)
             return False
         return True
 
@@ -123,6 +126,8 @@ class Simulation(object):
             self.time_step()
             time_step_counter += 1
             print(f"**********************************************{time_step_counter}******************************************************")
+            print(f" total infected from the population at some point before the virus burnt out self.total_infected {self.total_infected}")
+            print(f" total infected from the population at some point before the virus burnt out self.current_infected {self.current_infected}")
             self.logger.log_time_step(time_step_counter)
         # TODO: for every iteration of this loop, call self.time_step() to compute another
         # round of this simulation.
@@ -142,7 +147,11 @@ class Simulation(object):
             '''
         # HINT: You may want to call the logger's log_time_step() method at the end of each time step.
         # TODO: Set this variable using a helper
+        # self.logger.write_currentinfect_and_dead(self.vaccinated, self.total_dead)
+        self.logger.write_metadata(self.pop_size, self.vacc_percentage, self.virus.name, self.virus.mortality_rate, self.virus.repro_rate)
+        # self.saved = 0
         for person in self.population:
+            print(f"currently infected before.......................... interaction: {self.current_infected}")
             if person.infection and person.is_alive:
                 for num in range(100):
                     random_person = self._random_person(person._id)
@@ -159,7 +168,8 @@ class Simulation(object):
                     print(f"vaccinate {self.vaccinated}")
                     print("vaccinated incrematened ......................................")
                 self.current_infected -= 1
-            # print(f"currently infected: {self.current_infected}")
+                # self.saved -= 1
+            print(f"currently infected after>>>>>>>>>>>>>>>>>>>>> interaction: {self.current_infected}")
 
         self._infect_newly_infected()
         # self.logger.log_time_step()
@@ -190,6 +200,7 @@ class Simulation(object):
         assert random_person.is_alive == True
         if random_person.is_vaccinated:
             self.logger.log_interaction(person, random_person, random_person_vacc=True)
+            self.saved += 1
         elif random_person.infection:
             self.logger.log_interaction(person, random_person, random_person_sick=True)
         elif random_person.infection is None and not random_person.is_vaccinated:
@@ -197,6 +208,7 @@ class Simulation(object):
             if rand_num  <= person.infection.repro_rate:
                 self.newly_infected.append(random_person._id)
                 self.current_infected += 1
+                print(f"current_infected incremented ......................................{self.current_infected}")
                 self.total_infected += 1
                 self.logger.log_interaction(person, random_person, did_infect=True)
 
