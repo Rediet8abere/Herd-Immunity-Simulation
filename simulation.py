@@ -102,7 +102,7 @@ class Simulation(object):
         print(f" self.total_dead in simulation {self.total_dead}")
         print(f'should be equal to total population {self.vaccinated + self.total_dead}')
         if self.vaccinated + self.total_dead >= self.pop_size:
-            self.logger.write_currentinfect_and_dead(self.vaccinated, self.total_dead, self.pop_size, self.saved, self.total_infected)
+            self.logger.write_currentinfect_and_dead(self.total_dead, self.pop_size, self.saved, self.total_infected)
             return False
         return True
 

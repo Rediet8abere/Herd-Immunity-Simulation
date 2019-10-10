@@ -41,19 +41,13 @@ class Logger(object):
         file.write(f"       reproductive rate = {str(basic_repro_num)} \n")
         file.close()
 
-        # file = open(self.file_name, 'a')
-
-
-        # with open(self.file_name) as file:
-        #     content = file.read().split("\n")
-
         # TODO: Finish this method. This line of metadata should be tab-delimited
         # it should create the text file that we will store all logs in.
         # TIP: Use 'w' mode when you open the file. For all other methods, use
         # the 'a' mode to append a new log to the end, since 'w' overwrites the file.
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
-    def write_currentinfect_and_dead(self, current_infected, total_dead, pop_size, saved, total_infected):
+    def write_currentinfect_and_dead(self, total_dead, pop_size, saved, total_infected):
         file = open('answers.txt', 'a')
         file.write(f"       total percentage of dead Population = {str(round((total_dead/pop_size)*100))}% \n")
         file.write(f"       total interaction with infected person where a vaccination saved a random person from potentially becoming infected = {str(saved)} \n")
@@ -79,12 +73,13 @@ class Logger(object):
         # A sick person only has a chance at infecting healthy, unvaccinated people they encounter.
         file = open(self.file_name, 'a')
         if did_infect:
-            file.write(f'{random_person._id} did not infect {person._id} because already sick \n')
+            file.write(f'{person._id} infects {random_person._id} \n')
         else:
             if random_person_sick:
-                file.write(f'{random_person._id} infects {person._id} \n')
+                file.write(f'{person._id} did not infect {random_person._id} because already sick \n')
             elif random_person_vacc:
-                file.write(f'{random_person._id} did not infect {person._id} because vaccinated \n')
+                file.write(f'{person._id} did not infect {random_person._id} because vaccinated \n')
+        file.close()
 
     def log_infection_survival(self, person, did_die_from_infection):
         ''' The Simulation object uses this method to log the results of every
@@ -93,13 +88,14 @@ class Logger(object):
         The format of the log should be:
             "{person.ID} died from infection\n" or "{person.ID} survived infection.\n"
         '''
-        print("In log infection", person)
-        print("In log infection", did_die_from_infection)
+        # print("In log infection", person)
+        # print("In log infection", did_die_from_infection)
         file = open(self.file_name, 'a')
         if did_die_from_infection:
             file.write(f'{person._id} died from infection\n')
         else:
             file.write(f'{person._id} survived infection.\n')
+        file.close()
 
         # TODO: Finish this method. If the person survives, did_die_from_infection
         # should be False.  Otherwise, did_die_from_infection should be True.
@@ -129,11 +125,6 @@ if __name__ == "__main__":
     logger = Logger('answers.txt')
     logger.write_metadata(100000, 0.90, 'Ebola', 0.70, 0.25)
 
-    # logger.write_currentinfect_and_dead(current_infected, total_dead)
-
-    # virus ( name, repro_rate, mortality_rate)
-    # person (_id, is_vaccinated, infection=None)
-
     dysentery = Virus("Dysentery", 0.7, 0.2)
     person = Person(4, False)
 
@@ -144,29 +135,29 @@ if __name__ == "__main__":
 
     logger.log_interaction(person, random_person, random_person_sick=None, random_person_vacc=None, did_infect=None)
 
+# All Test In logger_test.py
+
 # python3 simulation.py Ebola 0.25 0.70 100000 0.90 10
-def test_write_metadata():
-    # create some people to test if our init method works as expected
-    logger = Logger('test_write.txt')
-    logger.write_metadata(100000, 0.90, 'Ebola', 0.70, 0.25)
-
-    with open('test_write.txt') as f:
-        content = f.read().split("\n")
-        assert content[0] == '100000'
-        assert content[1] == '0.9'
-        assert content[2] == 'Ebola'
-        assert content[3] == '0.7'
-        assert content[4] == '0.25'
-
-def test_log_interaction():
-    # virus ( name, repro_rate, mortality_rate)
-    # person (_id, is_vaccinated, infection=None)
-    logger = Logger('test_interaction.txt')
-
-    dysentery = Virus("Dysentery", 0.7, 0.2)
-    person = Person(4, True, dysentery)
-
-    bubonic_Plague = Virus("bubonic Plague", 1, 0.6)
-    random_person = Person(2, True, bubonic_Plague)
-    # person.infection is not None and random_person.is_vaccinated == False
-    logger.log_interaction(person, random_person, random_person_sick=None, random_person_vacc=None, did_infect=None)
+# def test_write_metadata():
+#     # create some people to test if our init method works as expected
+#     logger = Logger('test_write.txt')
+#     logger.write_metadata(100000, 0.90, 'Ebola', 0.70, 0.25)
+#
+#     with open('test_write.txt') as f:
+#         content = f.read().split("\n")
+#         assert content[0] == 'Input data for the simulation: '
+#         assert content[1] == ''
+#         assert content[2] == '       Population size = 100000 '
+#         assert content[3] == '       percent vaccinated = 0.9 '
+#         assert content[4] == '       virus name: Ebola '
+#         assert content[5] == '       mortality_rate = 0.7 '
+#         assert content[6] == '       reproductive rate = 0.25 '
+#
+# def test_log_interaction():
+#     logger = Logger('test_interaction.txt')
+#
+#     dysentery = Virus("Dysentery", 0.7, 0.2)
+#     person = Person(4, True, dysentery)
+#
+#     bubonic_Plague = Virus("bubonic Plague", 1, 0.6)
+#     random_person = Person(2, True, bubonic_Plague)

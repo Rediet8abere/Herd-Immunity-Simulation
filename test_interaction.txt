@@ -1,0 +1,7 @@
+2 infects 4 
+2 infects 4 
+2 infects 4 
+2 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+2 did not infect 4 because vaccinated 
+2 did not infect 4 because already sick 
