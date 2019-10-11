@@ -52,6 +52,7 @@ class Logger(object):
         file.write(f"       total percentage of dead Population = {str(round((total_dead/pop_size)*100))}% \n")
         file.write(f"       total interaction with infected person where a vaccination saved a random person from potentially becoming infected = {str(saved)} \n")
         file.write(f"       percentage of population infected at some point before the virus burned out {str(total_infected)}")
+        file.close()
 
 
 

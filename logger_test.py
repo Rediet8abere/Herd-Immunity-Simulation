@@ -12,7 +12,12 @@ class TestLoggerMethods(unittest.TestCase):
          self.random_person_1 = person.Person(2, True, self.dysentery)
          self.random_person_2 = person.Person(2, True)
          self.random_person_3 = person.Person(2, False)
-         self.current_infected = 10
+         self.current_infected = 2
+         self.total_dead = 5
+         self.pop_size = 20
+         self.saved = 15
+         self.total_infected = 3
+         self.total_percentage = str(round((self.total_dead/self.pop_size)*100))
 
      def test_write_metadata(self):
          self.log.write_metadata(100000, 0.90, 'Ebola', 0.70, 0.25)
@@ -55,16 +60,8 @@ class TestLoggerMethods(unittest.TestCase):
             content = f.read().split("\n")
             # print("In log interaction infect: ", content)
             self.assertEqual(content[10], '4 infects 2 ')
-     
 
 
-        # print("In log infection", person)
-        # print("In log infection", did_die_from_infection)
-        # file = open(self.file_name, 'a')
-        # if did_die_from_infection:
-        #     file.write(f'{person._id} died from infection\n')
-        # else:
-        #     file.write(f'{person._id} survived infection.\n')
 
 
 if __name__ == '__main__':
