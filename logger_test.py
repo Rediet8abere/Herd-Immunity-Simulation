@@ -24,7 +24,6 @@ class TestLoggerMethods(unittest.TestCase):
 
          with open('test.txt') as f:
              content = f.read().split("\n")
-             # print(content)
              self.assertEqual(content[0], 'Input data for the simulation: ')
              self.assertEqual(content[1], '')
              self.assertEqual(content[2], '       Population size = 100000 ')
@@ -33,12 +32,10 @@ class TestLoggerMethods(unittest.TestCase):
              self.assertEqual(content[5], '       mortality_rate = 0.7 ')
              self.assertEqual(content[6], '       reproductive rate = 0.25 ')
 
-     # log_infection_survival called before log_interaction
      def test_log_infection_survival(self):
          self.log.log_infection_survival(self.person, True)
          with open('test.txt') as f:
              content = f.read().split("\n")
-             # print("In log infection survival: ", content)
              self.assertEqual(content[7], '4 died from infection')
 
      def test_log_interaction(self):
@@ -46,19 +43,16 @@ class TestLoggerMethods(unittest.TestCase):
          self.log.log_interaction(self.person, self.random_person_1, random_person_sick=True)
          with open('test.txt') as f:
              content = f.read().split("\n")
-             # print("In log interaction already sick: ", content)
              self.assertEqual(content[8], '4 did not infect 2 because already sick ')
 
          self.log.log_interaction(self.person, self.random_person_2, random_person_vacc=True)
          with open('test.txt') as f:
              content = f.read().split("\n")
-             # print("In log interaction vaccinated: ", content)
              self.assertEqual(content[9], '4 did not infect 2 because vaccinated ')
 
          self.log.log_interaction(self.person, self.random_person_3, did_infect=True)
          with open('test.txt') as f:
             content = f.read().split("\n")
-            # print("In log interaction infect: ", content)
             self.assertEqual(content[10], '4 infects 2 ')
 
 

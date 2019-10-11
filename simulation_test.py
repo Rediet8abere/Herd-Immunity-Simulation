@@ -5,11 +5,6 @@ import virus
 
 class TestSimulationMethods(unittest.TestCase):
 
-    # def test_simulation_instance(self):
-    #     virus = simulation.Virus('Ebola', 0.25, 0.70)
-    #     sim = simulation.Simulation(100000, 0.90, virus, 10)
-    #     # assertIsInstance(a, b)
-    # # assert sim
     def setUp(self):
         self.virus = simulation.Virus('Ebola', 0.25, 0.70)
         self.sim = simulation.Simulation(100, 0.90, self.virus, 10)

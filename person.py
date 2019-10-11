@@ -25,15 +25,7 @@ class Person(object):
         If Person survives, they become vaccinated and they have no infection.
         Return a boolean value indicating whether they survived the infection.
         '''
-        # Only called if infection attribute is not None.
-        # TODO:  Finish this method. Should return a Boolean
-        # __init__(self, name, repro_rate, mortality_rate)
         rand_num = random.random()
-
-        # print("random number determing survival", round_rand_num)
-        # print("virus", virus)
-        # print("virus mortality rate", virus.mortality_rate)
-        # print("random number to compare to", rand_num)
         if rand_num < self.infection.mortality_rate:
             self.is_alive = False
             return False
@@ -43,17 +35,6 @@ class Person(object):
             self.infection = None
             return True
 
-
-# # person.infection is not None and random_person.is_vaccinated == False
-# dysentery = Virus("Dysentery", 0.7, 0.2)
-# person = Person(4, False, dysentery)
-#
-# bubonic_Plague = Virus("bubonic Plague", 1, 0.6)
-# random_person = Person(2, False, bubonic_Plague)
-# if __name__ == "__main__":
-#     virus = Virus("Dysentery", 0.7, 0.2)
-#     person = Person(1, True, virus)
-#     print(person.did_survive_infection())
 
 
 ''' These are simple tests to ensure that you are instantiating your Person class correctly. '''
@@ -68,9 +49,6 @@ def test_vacc_person_instantiation():
 
 def test_not_vacc_person_instantiation():
     person = Person(2, False)
-    # TODO: complete your own assert statements that test
-    # the values at each attribute
-    # assert ...
     assert person._id == 2
     assert person.is_alive is True
     # assert person.is_vaccinated is False
@@ -78,41 +56,24 @@ def test_not_vacc_person_instantiation():
 
 
 def test_sick_person_instantiation():
-    # Create a Virus object to give a Person object an infection
     virus = Virus("Dysentery", 0.7, 0.2)
-    # Create a Person object and give them the virus infection
     person = Person(3, False, virus)
-    # TODO: complete your own assert statements that test
-    # the values at each attribute
-    # assert ...
-    # __init__(self, _id, is_vaccinated, infection=None)
     assert person._id == 3
     assert person.is_alive is True
     assert person.is_vaccinated is False
     assert person.infection is virus
 
 def test_did_survive_infection():
-    # TODO: Create a Virus object to give a Person object an infection
     virus = Virus("Dysentery", 0.7, 0.2)
-    # TODO: Create a Person object and give them the virus infection
     person = Person(4, False, virus)
-    # Resolve whether the Person survives the infection or not
     survived = person.did_survive_infection()
-    # Check if the Person survived or not
     if survived:
-
         assert person.is_alive is True
         assert person.is_vaccinated is True
         assert person.infection is None
         assert person._id is 4
-        # TODO: Write your own assert statements that test
-        # the values of each attribute for a Person who survived
-        # assert ...
     else:
         assert person.is_alive is False
         assert person.is_vaccinated is False
         assert person.infection is Virus
         assert person._id is 4
-        # TODO: Write your own assert statements that test
-        # the values of each attribute for a Person who did not survive
-        # assert ...

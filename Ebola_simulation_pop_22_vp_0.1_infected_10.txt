@@ -1,0 +1,1118 @@
+Input data for the simulation: 
+
+       Population size = 22 
+       percent vaccinated = 0.1 
+       virus name: Ebola 
+       mortality_rate = 0.7 
+       reproductive rate = 0.25 
+10 did not infect 19 because already sick 
+10 did not infect 20 because already sick 
+10 did not infect 15 because already sick 
+10 did not infect 20 because already sick 
+10 did not infect 17 because already sick 
+10 did not infect 20 because already sick 
+10 did not infect 15 because already sick 
+10 did not infect 21 because vaccinated 
+10 did not infect 12 because already sick 
+10 did not infect 14 because already sick 
+10 did not infect 14 because already sick 
+10 did not infect 13 because already sick 
+10 did not infect 15 because already sick 
+10 did not infect 14 because already sick 
+10 did not infect 6 because vaccinated 
+10 did not infect 19 because already sick 
+10 did not infect 11 because already sick 
+10 did not infect 12 because already sick 
+10 did not infect 11 because already sick 
+10 did not infect 16 because already sick 
+10 did not infect 17 because already sick 
+10 did not infect 14 because already sick 
+10 did not infect 14 because already sick 
+10 did not infect 12 because already sick 
+10 did not infect 19 because already sick 
+10 did not infect 13 because already sick 
+10 did not infect 18 because already sick 
+10 did not infect 6 because vaccinated 
+10 did not infect 15 because already sick 
+10 did not infect 16 because already sick 
+10 did not infect 14 because already sick 
+10 did not infect 15 because already sick 
+10 did not infect 15 because already sick 
+10 did not infect 12 because already sick 
+10 did not infect 16 because already sick 
+10 did not infect 14 because already sick 
+10 did not infect 6 because vaccinated 
+10 did not infect 18 because already sick 
+10 did not infect 11 because already sick 
+10 did not infect 15 because already sick 
+10 did not infect 19 because already sick 
+10 did not infect 20 because already sick 
+10 did not infect 21 because vaccinated 
+10 did not infect 15 because already sick 
+10 did not infect 17 because already sick 
+10 did not infect 13 because already sick 
+10 did not infect 11 because already sick 
+10 did not infect 12 because already sick 
+10 did not infect 11 because already sick 
+10 did not infect 12 because already sick 
+10 did not infect 18 because already sick 
+10 did not infect 17 because already sick 
+10 did not infect 6 because vaccinated 
+10 did not infect 11 because already sick 
+10 did not infect 17 because already sick 
+10 did not infect 12 because already sick 
+10 did not infect 16 because already sick 
+10 did not infect 14 because already sick 
+10 did not infect 17 because already sick 
+10 did not infect 19 because already sick 
+10 did not infect 21 because vaccinated 
+10 did not infect 19 because already sick 
+10 did not infect 12 because already sick 
+10 did not infect 11 because already sick 
+10 did not infect 17 because already sick 
+10 did not infect 11 because already sick 
+10 did not infect 6 because vaccinated 
+10 did not infect 19 because already sick 
+10 did not infect 16 because already sick 
+10 did not infect 12 because already sick 
+10 did not infect 16 because already sick 
+10 did not infect 15 because already sick 
+10 did not infect 16 because already sick 
+10 did not infect 14 because already sick 
+10 did not infect 19 because already sick 
+10 did not infect 16 because already sick 
+10 did not infect 19 because already sick 
+10 did not infect 12 because already sick 
+10 did not infect 19 because already sick 
+10 did not infect 18 because already sick 
+10 did not infect 16 because already sick 
+10 did not infect 16 because already sick 
+10 did not infect 17 because already sick 
+10 did not infect 15 because already sick 
+10 did not infect 18 because already sick 
+10 did not infect 15 because already sick 
+10 did not infect 11 because already sick 
+10 did not infect 21 because vaccinated 
+10 did not infect 13 because already sick 
+10 did not infect 18 because already sick 
+10 did not infect 20 because already sick 
+10 did not infect 19 because already sick 
+10 did not infect 15 because already sick 
+10 did not infect 20 because already sick 
+10 did not infect 18 because already sick 
+10 did not infect 18 because already sick 
+10 did not infect 18 because already sick 
+10 did not infect 15 because already sick 
+10 did not infect 16 because already sick 
+10 did not infect 20 because already sick 
+10 survived infection.
+11 did not infect 12 because already sick 
+11 did not infect 21 because vaccinated 
+11 did not infect 18 because already sick 
+11 did not infect 6 because vaccinated 
+11 did not infect 14 because already sick 
+11 did not infect 10 because vaccinated 
+11 did not infect 13 because already sick 
+11 did not infect 13 because already sick 
+11 did not infect 6 because vaccinated 
+11 did not infect 13 because already sick 
+11 did not infect 16 because already sick 
+11 did not infect 19 because already sick 
+11 did not infect 15 because already sick 
+11 did not infect 16 because already sick 
+11 did not infect 6 because vaccinated 
+11 did not infect 17 because already sick 
+11 did not infect 10 because vaccinated 
+11 did not infect 21 because vaccinated 
+11 did not infect 15 because already sick 
+11 did not infect 16 because already sick 
+11 did not infect 12 because already sick 
+11 did not infect 10 because vaccinated 
+11 did not infect 14 because already sick 
+11 did not infect 17 because already sick 
+11 did not infect 10 because vaccinated 
+11 did not infect 17 because already sick 
+11 did not infect 21 because vaccinated 
+11 did not infect 21 because vaccinated 
+11 did not infect 20 because already sick 
+11 did not infect 19 because already sick 
+11 did not infect 15 because already sick 
+11 did not infect 6 because vaccinated 
+11 did not infect 17 because already sick 
+11 did not infect 6 because vaccinated 
+11 did not infect 15 because already sick 
+11 did not infect 10 because vaccinated 
+11 did not infect 15 because already sick 
+11 did not infect 17 because already sick 
+11 did not infect 18 because already sick 
+11 did not infect 21 because vaccinated 
+11 did not infect 17 because already sick 
+11 did not infect 12 because already sick 
+11 did not infect 12 because already sick 
+11 did not infect 14 because already sick 
+11 did not infect 20 because already sick 
+11 did not infect 15 because already sick 
+11 did not infect 6 because vaccinated 
+11 did not infect 6 because vaccinated 
+11 did not infect 17 because already sick 
+11 did not infect 17 because already sick 
+11 did not infect 19 because already sick 
+11 did not infect 18 because already sick 
+11 did not infect 21 because vaccinated 
+11 did not infect 16 because already sick 
+11 did not infect 20 because already sick 
+11 did not infect 13 because already sick 
+11 did not infect 10 because vaccinated 
+11 did not infect 15 because already sick 
+11 did not infect 21 because vaccinated 
+11 did not infect 17 because already sick 
+11 did not infect 13 because already sick 
+11 did not infect 20 because already sick 
+11 did not infect 15 because already sick 
+11 did not infect 15 because already sick 
+11 did not infect 20 because already sick 
+11 did not infect 6 because vaccinated 
+11 did not infect 10 because vaccinated 
+11 did not infect 20 because already sick 
+11 did not infect 20 because already sick 
+11 did not infect 18 because already sick 
+11 did not infect 17 because already sick 
+11 did not infect 13 because already sick 
+11 did not infect 12 because already sick 
+11 did not infect 15 because already sick 
+11 did not infect 18 because already sick 
+11 did not infect 19 because already sick 
+11 did not infect 10 because vaccinated 
+11 did not infect 14 because already sick 
+11 did not infect 20 because already sick 
+11 did not infect 17 because already sick 
+11 did not infect 16 because already sick 
+11 did not infect 15 because already sick 
+11 did not infect 16 because already sick 
+11 did not infect 14 because already sick 
+11 did not infect 6 because vaccinated 
+11 did not infect 10 because vaccinated 
+11 did not infect 14 because already sick 
+11 did not infect 20 because already sick 
+11 did not infect 10 because vaccinated 
+11 did not infect 18 because already sick 
+11 did not infect 21 because vaccinated 
+11 did not infect 6 because vaccinated 
+11 did not infect 19 because already sick 
+11 did not infect 20 because already sick 
+11 did not infect 12 because already sick 
+11 did not infect 13 because already sick 
+11 did not infect 16 because already sick 
+11 did not infect 10 because vaccinated 
+11 did not infect 12 because already sick 
+11 did not infect 21 because vaccinated 
+11 died from infection
+12 did not infect 15 because already sick 
+12 did not infect 10 because vaccinated 
+12 did not infect 14 because already sick 
+12 did not infect 10 because vaccinated 
+12 did not infect 18 because already sick 
+12 did not infect 18 because already sick 
+12 did not infect 20 because already sick 
+12 did not infect 21 because vaccinated 
+12 did not infect 14 because already sick 
+12 did not infect 21 because vaccinated 
+12 did not infect 16 because already sick 
+12 did not infect 20 because already sick 
+12 did not infect 19 because already sick 
+12 did not infect 15 because already sick 
+12 did not infect 14 because already sick 
+12 did not infect 19 because already sick 
+12 did not infect 13 because already sick 
+12 did not infect 17 because already sick 
+12 did not infect 15 because already sick 
+12 did not infect 17 because already sick 
+12 did not infect 21 because vaccinated 
+12 did not infect 6 because vaccinated 
+12 did not infect 21 because vaccinated 
+12 did not infect 19 because already sick 
+12 did not infect 16 because already sick 
+12 did not infect 14 because already sick 
+12 did not infect 16 because already sick 
+12 did not infect 18 because already sick 
+12 did not infect 17 because already sick 
+12 did not infect 16 because already sick 
+12 did not infect 6 because vaccinated 
+12 did not infect 18 because already sick 
+12 did not infect 17 because already sick 
+12 did not infect 10 because vaccinated 
+12 did not infect 16 because already sick 
+12 did not infect 14 because already sick 
+12 did not infect 21 because vaccinated 
+12 did not infect 6 because vaccinated 
+12 did not infect 18 because already sick 
+12 did not infect 15 because already sick 
+12 did not infect 16 because already sick 
+12 did not infect 14 because already sick 
+12 did not infect 14 because already sick 
+12 did not infect 16 because already sick 
+12 did not infect 13 because already sick 
+12 did not infect 14 because already sick 
+12 did not infect 18 because already sick 
+12 did not infect 17 because already sick 
+12 did not infect 14 because already sick 
+12 did not infect 21 because vaccinated 
+12 did not infect 6 because vaccinated 
+12 did not infect 18 because already sick 
+12 did not infect 13 because already sick 
+12 did not infect 17 because already sick 
+12 did not infect 15 because already sick 
+12 did not infect 13 because already sick 
+12 did not infect 20 because already sick 
+12 did not infect 20 because already sick 
+12 did not infect 13 because already sick 
+12 did not infect 14 because already sick 
+12 did not infect 21 because vaccinated 
+12 did not infect 21 because vaccinated 
+12 did not infect 17 because already sick 
+12 did not infect 20 because already sick 
+12 did not infect 17 because already sick 
+12 did not infect 16 because already sick 
+12 did not infect 14 because already sick 
+12 did not infect 21 because vaccinated 
+12 did not infect 17 because already sick 
+12 did not infect 13 because already sick 
+12 did not infect 17 because already sick 
+12 did not infect 14 because already sick 
+12 did not infect 6 because vaccinated 
+12 did not infect 21 because vaccinated 
+12 did not infect 13 because already sick 
+12 did not infect 19 because already sick 
+12 did not infect 6 because vaccinated 
+12 did not infect 19 because already sick 
+12 did not infect 14 because already sick 
+12 did not infect 19 because already sick 
+12 did not infect 21 because vaccinated 
+12 did not infect 14 because already sick 
+12 did not infect 17 because already sick 
+12 did not infect 6 because vaccinated 
+12 did not infect 16 because already sick 
+12 did not infect 18 because already sick 
+12 did not infect 10 because vaccinated 
+12 did not infect 18 because already sick 
+12 did not infect 19 because already sick 
+12 did not infect 21 because vaccinated 
+12 did not infect 10 because vaccinated 
+12 did not infect 21 because vaccinated 
+12 did not infect 16 because already sick 
+12 did not infect 13 because already sick 
+12 did not infect 17 because already sick 
+12 did not infect 18 because already sick 
+12 did not infect 20 because already sick 
+12 did not infect 21 because vaccinated 
+12 did not infect 13 because already sick 
+12 did not infect 17 because already sick 
+12 died from infection
+13 did not infect 20 because already sick 
+13 did not infect 21 because vaccinated 
+13 did not infect 16 because already sick 
+13 did not infect 10 because vaccinated 
+13 did not infect 17 because already sick 
+13 did not infect 15 because already sick 
+13 did not infect 14 because already sick 
+13 did not infect 17 because already sick 
+13 did not infect 17 because already sick 
+13 did not infect 16 because already sick 
+13 did not infect 6 because vaccinated 
+13 did not infect 10 because vaccinated 
+13 did not infect 20 because already sick 
+13 did not infect 14 because already sick 
+13 did not infect 17 because already sick 
+13 did not infect 6 because vaccinated 
+13 did not infect 21 because vaccinated 
+13 did not infect 19 because already sick 
+13 did not infect 19 because already sick 
+13 did not infect 6 because vaccinated 
+13 did not infect 18 because already sick 
+13 did not infect 21 because vaccinated 
+13 did not infect 17 because already sick 
+13 did not infect 6 because vaccinated 
+13 did not infect 15 because already sick 
+13 did not infect 6 because vaccinated 
+13 did not infect 10 because vaccinated 
+13 did not infect 6 because vaccinated 
+13 did not infect 6 because vaccinated 
+13 did not infect 15 because already sick 
+13 did not infect 19 because already sick 
+13 did not infect 6 because vaccinated 
+13 did not infect 17 because already sick 
+13 did not infect 10 because vaccinated 
+13 did not infect 14 because already sick 
+13 did not infect 17 because already sick 
+13 did not infect 20 because already sick 
+13 did not infect 16 because already sick 
+13 did not infect 15 because already sick 
+13 did not infect 14 because already sick 
+13 did not infect 15 because already sick 
+13 did not infect 10 because vaccinated 
+13 did not infect 6 because vaccinated 
+13 did not infect 10 because vaccinated 
+13 did not infect 18 because already sick 
+13 did not infect 17 because already sick 
+13 did not infect 18 because already sick 
+13 did not infect 18 because already sick 
+13 did not infect 6 because vaccinated 
+13 did not infect 10 because vaccinated 
+13 did not infect 18 because already sick 
+13 did not infect 15 because already sick 
+13 did not infect 17 because already sick 
+13 did not infect 20 because already sick 
+13 did not infect 21 because vaccinated 
+13 did not infect 10 because vaccinated 
+13 did not infect 15 because already sick 
+13 did not infect 20 because already sick 
+13 did not infect 15 because already sick 
+13 did not infect 14 because already sick 
+13 did not infect 17 because already sick 
+13 did not infect 15 because already sick 
+13 did not infect 17 because already sick 
+13 did not infect 20 because already sick 
+13 did not infect 16 because already sick 
+13 did not infect 21 because vaccinated 
+13 did not infect 20 because already sick 
+13 did not infect 6 because vaccinated 
+13 did not infect 16 because already sick 
+13 did not infect 14 because already sick 
+13 did not infect 19 because already sick 
+13 did not infect 20 because already sick 
+13 did not infect 21 because vaccinated 
+13 did not infect 19 because already sick 
+13 did not infect 15 because already sick 
+13 did not infect 21 because vaccinated 
+13 did not infect 15 because already sick 
+13 did not infect 17 because already sick 
+13 did not infect 17 because already sick 
+13 did not infect 16 because already sick 
+13 did not infect 17 because already sick 
+13 did not infect 16 because already sick 
+13 did not infect 21 because vaccinated 
+13 did not infect 16 because already sick 
+13 did not infect 6 because vaccinated 
+13 did not infect 19 because already sick 
+13 did not infect 16 because already sick 
+13 did not infect 14 because already sick 
+13 did not infect 18 because already sick 
+13 did not infect 21 because vaccinated 
+13 did not infect 20 because already sick 
+13 did not infect 20 because already sick 
+13 did not infect 17 because already sick 
+13 did not infect 15 because already sick 
+13 did not infect 20 because already sick 
+13 did not infect 15 because already sick 
+13 did not infect 20 because already sick 
+13 did not infect 10 because vaccinated 
+13 did not infect 18 because already sick 
+13 did not infect 16 because already sick 
+13 survived infection.
+14 did not infect 6 because vaccinated 
+14 did not infect 18 because already sick 
+14 did not infect 15 because already sick 
+14 did not infect 21 because vaccinated 
+14 did not infect 17 because already sick 
+14 did not infect 18 because already sick 
+14 did not infect 21 because vaccinated 
+14 did not infect 10 because vaccinated 
+14 did not infect 6 because vaccinated 
+14 did not infect 18 because already sick 
+14 did not infect 18 because already sick 
+14 did not infect 18 because already sick 
+14 did not infect 21 because vaccinated 
+14 did not infect 17 because already sick 
+14 did not infect 10 because vaccinated 
+14 did not infect 16 because already sick 
+14 did not infect 13 because vaccinated 
+14 did not infect 10 because vaccinated 
+14 did not infect 19 because already sick 
+14 did not infect 19 because already sick 
+14 did not infect 19 because already sick 
+14 did not infect 10 because vaccinated 
+14 did not infect 20 because already sick 
+14 did not infect 15 because already sick 
+14 did not infect 17 because already sick 
+14 did not infect 13 because vaccinated 
+14 did not infect 21 because vaccinated 
+14 did not infect 18 because already sick 
+14 did not infect 21 because vaccinated 
+14 did not infect 19 because already sick 
+14 did not infect 20 because already sick 
+14 did not infect 10 because vaccinated 
+14 did not infect 13 because vaccinated 
+14 did not infect 17 because already sick 
+14 did not infect 17 because already sick 
+14 did not infect 16 because already sick 
+14 did not infect 13 because vaccinated 
+14 did not infect 17 because already sick 
+14 did not infect 19 because already sick 
+14 did not infect 19 because already sick 
+14 did not infect 10 because vaccinated 
+14 did not infect 13 because vaccinated 
+14 did not infect 17 because already sick 
+14 did not infect 18 because already sick 
+14 did not infect 16 because already sick 
+14 did not infect 21 because vaccinated 
+14 did not infect 15 because already sick 
+14 did not infect 13 because vaccinated 
+14 did not infect 13 because vaccinated 
+14 did not infect 15 because already sick 
+14 did not infect 20 because already sick 
+14 did not infect 15 because already sick 
+14 did not infect 19 because already sick 
+14 did not infect 19 because already sick 
+14 did not infect 6 because vaccinated 
+14 did not infect 10 because vaccinated 
+14 did not infect 19 because already sick 
+14 did not infect 10 because vaccinated 
+14 did not infect 10 because vaccinated 
+14 did not infect 13 because vaccinated 
+14 did not infect 20 because already sick 
+14 did not infect 19 because already sick 
+14 did not infect 10 because vaccinated 
+14 did not infect 19 because already sick 
+14 did not infect 6 because vaccinated 
+14 did not infect 15 because already sick 
+14 did not infect 10 because vaccinated 
+14 did not infect 10 because vaccinated 
+14 did not infect 20 because already sick 
+14 did not infect 15 because already sick 
+14 did not infect 18 because already sick 
+14 did not infect 10 because vaccinated 
+14 did not infect 18 because already sick 
+14 did not infect 6 because vaccinated 
+14 did not infect 18 because already sick 
+14 did not infect 17 because already sick 
+14 did not infect 21 because vaccinated 
+14 did not infect 17 because already sick 
+14 did not infect 6 because vaccinated 
+14 did not infect 13 because vaccinated 
+14 did not infect 21 because vaccinated 
+14 did not infect 15 because already sick 
+14 did not infect 20 because already sick 
+14 did not infect 21 because vaccinated 
+14 did not infect 13 because vaccinated 
+14 did not infect 19 because already sick 
+14 did not infect 15 because already sick 
+14 did not infect 18 because already sick 
+14 did not infect 17 because already sick 
+14 did not infect 16 because already sick 
+14 did not infect 13 because vaccinated 
+14 did not infect 17 because already sick 
+14 did not infect 17 because already sick 
+14 did not infect 19 because already sick 
+14 did not infect 20 because already sick 
+14 did not infect 21 because vaccinated 
+14 did not infect 21 because vaccinated 
+14 did not infect 20 because already sick 
+14 did not infect 19 because already sick 
+14 did not infect 18 because already sick 
+14 survived infection.
+15 did not infect 21 because vaccinated 
+15 did not infect 20 because already sick 
+15 did not infect 10 because vaccinated 
+15 did not infect 13 because vaccinated 
+15 did not infect 16 because already sick 
+15 did not infect 16 because already sick 
+15 did not infect 17 because already sick 
+15 did not infect 18 because already sick 
+15 did not infect 18 because already sick 
+15 did not infect 14 because vaccinated 
+15 did not infect 14 because vaccinated 
+15 did not infect 21 because vaccinated 
+15 did not infect 18 because already sick 
+15 did not infect 16 because already sick 
+15 did not infect 13 because vaccinated 
+15 did not infect 10 because vaccinated 
+15 did not infect 14 because vaccinated 
+15 did not infect 6 because vaccinated 
+15 did not infect 16 because already sick 
+15 did not infect 14 because vaccinated 
+15 did not infect 14 because vaccinated 
+15 did not infect 10 because vaccinated 
+15 did not infect 10 because vaccinated 
+15 did not infect 20 because already sick 
+15 did not infect 21 because vaccinated 
+15 did not infect 16 because already sick 
+15 did not infect 17 because already sick 
+15 did not infect 10 because vaccinated 
+15 did not infect 17 because already sick 
+15 did not infect 13 because vaccinated 
+15 did not infect 14 because vaccinated 
+15 did not infect 20 because already sick 
+15 did not infect 20 because already sick 
+15 did not infect 21 because vaccinated 
+15 did not infect 13 because vaccinated 
+15 did not infect 19 because already sick 
+15 did not infect 6 because vaccinated 
+15 did not infect 14 because vaccinated 
+15 did not infect 18 because already sick 
+15 did not infect 13 because vaccinated 
+15 did not infect 6 because vaccinated 
+15 did not infect 6 because vaccinated 
+15 did not infect 18 because already sick 
+15 did not infect 17 because already sick 
+15 did not infect 10 because vaccinated 
+15 did not infect 6 because vaccinated 
+15 did not infect 14 because vaccinated 
+15 did not infect 21 because vaccinated 
+15 did not infect 16 because already sick 
+15 did not infect 20 because already sick 
+15 did not infect 10 because vaccinated 
+15 did not infect 19 because already sick 
+15 did not infect 19 because already sick 
+15 did not infect 18 because already sick 
+15 did not infect 14 because vaccinated 
+15 did not infect 19 because already sick 
+15 did not infect 21 because vaccinated 
+15 did not infect 19 because already sick 
+15 did not infect 18 because already sick 
+15 did not infect 21 because vaccinated 
+15 did not infect 10 because vaccinated 
+15 did not infect 16 because already sick 
+15 did not infect 13 because vaccinated 
+15 did not infect 19 because already sick 
+15 did not infect 18 because already sick 
+15 did not infect 13 because vaccinated 
+15 did not infect 20 because already sick 
+15 did not infect 17 because already sick 
+15 did not infect 20 because already sick 
+15 did not infect 17 because already sick 
+15 did not infect 10 because vaccinated 
+15 did not infect 14 because vaccinated 
+15 did not infect 19 because already sick 
+15 did not infect 6 because vaccinated 
+15 did not infect 17 because already sick 
+15 did not infect 16 because already sick 
+15 did not infect 20 because already sick 
+15 did not infect 13 because vaccinated 
+15 did not infect 21 because vaccinated 
+15 did not infect 13 because vaccinated 
+15 did not infect 14 because vaccinated 
+15 did not infect 18 because already sick 
+15 did not infect 17 because already sick 
+15 did not infect 14 because vaccinated 
+15 did not infect 18 because already sick 
+15 did not infect 17 because already sick 
+15 did not infect 16 because already sick 
+15 did not infect 18 because already sick 
+15 did not infect 17 because already sick 
+15 did not infect 17 because already sick 
+15 did not infect 14 because vaccinated 
+15 did not infect 17 because already sick 
+15 did not infect 6 because vaccinated 
+15 did not infect 13 because vaccinated 
+15 did not infect 20 because already sick 
+15 did not infect 14 because vaccinated 
+15 did not infect 14 because vaccinated 
+15 did not infect 6 because vaccinated 
+15 did not infect 18 because already sick 
+15 did not infect 19 because already sick 
+15 died from infection
+16 did not infect 19 because already sick 
+16 did not infect 6 because vaccinated 
+16 did not infect 6 because vaccinated 
+16 did not infect 18 because already sick 
+16 did not infect 17 because already sick 
+16 did not infect 19 because already sick 
+16 did not infect 17 because already sick 
+16 did not infect 10 because vaccinated 
+16 did not infect 18 because already sick 
+16 did not infect 21 because vaccinated 
+16 did not infect 13 because vaccinated 
+16 did not infect 20 because already sick 
+16 did not infect 10 because vaccinated 
+16 did not infect 21 because vaccinated 
+16 did not infect 18 because already sick 
+16 did not infect 20 because already sick 
+16 did not infect 20 because already sick 
+16 did not infect 13 because vaccinated 
+16 did not infect 14 because vaccinated 
+16 did not infect 20 because already sick 
+16 did not infect 14 because vaccinated 
+16 did not infect 10 because vaccinated 
+16 did not infect 18 because already sick 
+16 did not infect 14 because vaccinated 
+16 did not infect 20 because already sick 
+16 did not infect 21 because vaccinated 
+16 did not infect 17 because already sick 
+16 did not infect 6 because vaccinated 
+16 did not infect 13 because vaccinated 
+16 did not infect 6 because vaccinated 
+16 did not infect 10 because vaccinated 
+16 did not infect 10 because vaccinated 
+16 did not infect 17 because already sick 
+16 did not infect 18 because already sick 
+16 did not infect 18 because already sick 
+16 did not infect 10 because vaccinated 
+16 did not infect 21 because vaccinated 
+16 did not infect 20 because already sick 
+16 did not infect 14 because vaccinated 
+16 did not infect 14 because vaccinated 
+16 did not infect 14 because vaccinated 
+16 did not infect 13 because vaccinated 
+16 did not infect 6 because vaccinated 
+16 did not infect 20 because already sick 
+16 did not infect 20 because already sick 
+16 did not infect 21 because vaccinated 
+16 did not infect 20 because already sick 
+16 did not infect 20 because already sick 
+16 did not infect 13 because vaccinated 
+16 did not infect 20 because already sick 
+16 did not infect 6 because vaccinated 
+16 did not infect 18 because already sick 
+16 did not infect 21 because vaccinated 
+16 did not infect 14 because vaccinated 
+16 did not infect 10 because vaccinated 
+16 did not infect 13 because vaccinated 
+16 did not infect 10 because vaccinated 
+16 did not infect 20 because already sick 
+16 did not infect 21 because vaccinated 
+16 did not infect 18 because already sick 
+16 did not infect 19 because already sick 
+16 did not infect 20 because already sick 
+16 did not infect 14 because vaccinated 
+16 did not infect 6 because vaccinated 
+16 did not infect 20 because already sick 
+16 did not infect 13 because vaccinated 
+16 did not infect 19 because already sick 
+16 did not infect 21 because vaccinated 
+16 did not infect 14 because vaccinated 
+16 did not infect 6 because vaccinated 
+16 did not infect 18 because already sick 
+16 did not infect 13 because vaccinated 
+16 did not infect 10 because vaccinated 
+16 did not infect 20 because already sick 
+16 did not infect 17 because already sick 
+16 did not infect 19 because already sick 
+16 did not infect 19 because already sick 
+16 did not infect 19 because already sick 
+16 did not infect 21 because vaccinated 
+16 did not infect 6 because vaccinated 
+16 did not infect 19 because already sick 
+16 did not infect 6 because vaccinated 
+16 did not infect 20 because already sick 
+16 did not infect 20 because already sick 
+16 did not infect 19 because already sick 
+16 did not infect 10 because vaccinated 
+16 did not infect 18 because already sick 
+16 did not infect 13 because vaccinated 
+16 did not infect 17 because already sick 
+16 did not infect 21 because vaccinated 
+16 did not infect 18 because already sick 
+16 did not infect 6 because vaccinated 
+16 did not infect 20 because already sick 
+16 did not infect 13 because vaccinated 
+16 did not infect 13 because vaccinated 
+16 did not infect 20 because already sick 
+16 did not infect 17 because already sick 
+16 did not infect 17 because already sick 
+16 did not infect 19 because already sick 
+16 did not infect 6 because vaccinated 
+16 survived infection.
+17 did not infect 10 because vaccinated 
+17 did not infect 18 because already sick 
+17 did not infect 20 because already sick 
+17 did not infect 20 because already sick 
+17 did not infect 21 because vaccinated 
+17 did not infect 20 because already sick 
+17 did not infect 13 because vaccinated 
+17 did not infect 13 because vaccinated 
+17 did not infect 14 because vaccinated 
+17 did not infect 19 because already sick 
+17 did not infect 19 because already sick 
+17 did not infect 21 because vaccinated 
+17 did not infect 21 because vaccinated 
+17 did not infect 16 because vaccinated 
+17 did not infect 16 because vaccinated 
+17 did not infect 10 because vaccinated 
+17 did not infect 13 because vaccinated 
+17 did not infect 16 because vaccinated 
+17 did not infect 18 because already sick 
+17 did not infect 20 because already sick 
+17 did not infect 14 because vaccinated 
+17 did not infect 16 because vaccinated 
+17 did not infect 18 because already sick 
+17 did not infect 18 because already sick 
+17 did not infect 21 because vaccinated 
+17 did not infect 16 because vaccinated 
+17 did not infect 20 because already sick 
+17 did not infect 13 because vaccinated 
+17 did not infect 10 because vaccinated 
+17 did not infect 13 because vaccinated 
+17 did not infect 10 because vaccinated 
+17 did not infect 18 because already sick 
+17 did not infect 16 because vaccinated 
+17 did not infect 21 because vaccinated 
+17 did not infect 16 because vaccinated 
+17 did not infect 14 because vaccinated 
+17 did not infect 10 because vaccinated 
+17 did not infect 14 because vaccinated 
+17 did not infect 6 because vaccinated 
+17 did not infect 18 because already sick 
+17 did not infect 19 because already sick 
+17 did not infect 14 because vaccinated 
+17 did not infect 18 because already sick 
+17 did not infect 6 because vaccinated 
+17 did not infect 13 because vaccinated 
+17 did not infect 20 because already sick 
+17 did not infect 10 because vaccinated 
+17 did not infect 21 because vaccinated 
+17 did not infect 6 because vaccinated 
+17 did not infect 16 because vaccinated 
+17 did not infect 13 because vaccinated 
+17 did not infect 16 because vaccinated 
+17 did not infect 13 because vaccinated 
+17 did not infect 14 because vaccinated 
+17 did not infect 18 because already sick 
+17 did not infect 16 because vaccinated 
+17 did not infect 20 because already sick 
+17 did not infect 18 because already sick 
+17 did not infect 18 because already sick 
+17 did not infect 13 because vaccinated 
+17 did not infect 21 because vaccinated 
+17 did not infect 10 because vaccinated 
+17 did not infect 10 because vaccinated 
+17 did not infect 10 because vaccinated 
+17 did not infect 14 because vaccinated 
+17 did not infect 6 because vaccinated 
+17 did not infect 18 because already sick 
+17 did not infect 14 because vaccinated 
+17 did not infect 14 because vaccinated 
+17 did not infect 10 because vaccinated 
+17 did not infect 13 because vaccinated 
+17 did not infect 6 because vaccinated 
+17 did not infect 14 because vaccinated 
+17 did not infect 14 because vaccinated 
+17 did not infect 21 because vaccinated 
+17 did not infect 19 because already sick 
+17 did not infect 6 because vaccinated 
+17 did not infect 10 because vaccinated 
+17 did not infect 16 because vaccinated 
+17 did not infect 21 because vaccinated 
+17 did not infect 14 because vaccinated 
+17 did not infect 14 because vaccinated 
+17 did not infect 6 because vaccinated 
+17 did not infect 21 because vaccinated 
+17 did not infect 20 because already sick 
+17 did not infect 20 because already sick 
+17 did not infect 18 because already sick 
+17 did not infect 18 because already sick 
+17 did not infect 6 because vaccinated 
+17 did not infect 20 because already sick 
+17 did not infect 14 because vaccinated 
+17 did not infect 10 because vaccinated 
+17 did not infect 14 because vaccinated 
+17 did not infect 18 because already sick 
+17 did not infect 13 because vaccinated 
+17 did not infect 21 because vaccinated 
+17 did not infect 13 because vaccinated 
+17 did not infect 6 because vaccinated 
+17 did not infect 14 because vaccinated 
+17 did not infect 19 because already sick 
+17 died from infection
+18 did not infect 20 because already sick 
+18 did not infect 13 because vaccinated 
+18 did not infect 13 because vaccinated 
+18 did not infect 6 because vaccinated 
+18 did not infect 20 because already sick 
+18 did not infect 16 because vaccinated 
+18 did not infect 20 because already sick 
+18 did not infect 16 because vaccinated 
+18 did not infect 10 because vaccinated 
+18 did not infect 10 because vaccinated 
+18 did not infect 19 because already sick 
+18 did not infect 16 because vaccinated 
+18 did not infect 21 because vaccinated 
+18 did not infect 10 because vaccinated 
+18 did not infect 6 because vaccinated 
+18 did not infect 19 because already sick 
+18 did not infect 16 because vaccinated 
+18 did not infect 10 because vaccinated 
+18 did not infect 19 because already sick 
+18 did not infect 6 because vaccinated 
+18 did not infect 10 because vaccinated 
+18 did not infect 10 because vaccinated 
+18 did not infect 16 because vaccinated 
+18 did not infect 21 because vaccinated 
+18 did not infect 10 because vaccinated 
+18 did not infect 10 because vaccinated 
+18 did not infect 13 because vaccinated 
+18 did not infect 20 because already sick 
+18 did not infect 20 because already sick 
+18 did not infect 10 because vaccinated 
+18 did not infect 19 because already sick 
+18 did not infect 21 because vaccinated 
+18 did not infect 19 because already sick 
+18 did not infect 10 because vaccinated 
+18 did not infect 19 because already sick 
+18 did not infect 20 because already sick 
+18 did not infect 10 because vaccinated 
+18 did not infect 10 because vaccinated 
+18 did not infect 20 because already sick 
+18 did not infect 21 because vaccinated 
+18 did not infect 20 because already sick 
+18 did not infect 10 because vaccinated 
+18 did not infect 14 because vaccinated 
+18 did not infect 6 because vaccinated 
+18 did not infect 14 because vaccinated 
+18 did not infect 13 because vaccinated 
+18 did not infect 13 because vaccinated 
+18 did not infect 20 because already sick 
+18 did not infect 21 because vaccinated 
+18 did not infect 14 because vaccinated 
+18 did not infect 10 because vaccinated 
+18 did not infect 10 because vaccinated 
+18 did not infect 10 because vaccinated 
+18 did not infect 19 because already sick 
+18 did not infect 19 because already sick 
+18 did not infect 13 because vaccinated 
+18 did not infect 20 because already sick 
+18 did not infect 19 because already sick 
+18 did not infect 13 because vaccinated 
+18 did not infect 10 because vaccinated 
+18 did not infect 6 because vaccinated 
+18 did not infect 6 because vaccinated 
+18 did not infect 13 because vaccinated 
+18 did not infect 21 because vaccinated 
+18 did not infect 13 because vaccinated 
+18 did not infect 21 because vaccinated 
+18 did not infect 20 because already sick 
+18 did not infect 19 because already sick 
+18 did not infect 6 because vaccinated 
+18 did not infect 6 because vaccinated 
+18 did not infect 20 because already sick 
+18 did not infect 21 because vaccinated 
+18 did not infect 20 because already sick 
+18 did not infect 14 because vaccinated 
+18 did not infect 14 because vaccinated 
+18 did not infect 14 because vaccinated 
+18 did not infect 21 because vaccinated 
+18 did not infect 21 because vaccinated 
+18 did not infect 13 because vaccinated 
+18 did not infect 16 because vaccinated 
+18 did not infect 13 because vaccinated 
+18 did not infect 21 because vaccinated 
+18 did not infect 16 because vaccinated 
+18 did not infect 16 because vaccinated 
+18 did not infect 21 because vaccinated 
+18 did not infect 19 because already sick 
+18 did not infect 14 because vaccinated 
+18 did not infect 6 because vaccinated 
+18 did not infect 6 because vaccinated 
+18 did not infect 13 because vaccinated 
+18 did not infect 21 because vaccinated 
+18 did not infect 13 because vaccinated 
+18 did not infect 6 because vaccinated 
+18 did not infect 20 because already sick 
+18 did not infect 19 because already sick 
+18 did not infect 10 because vaccinated 
+18 did not infect 10 because vaccinated 
+18 did not infect 16 because vaccinated 
+18 did not infect 14 because vaccinated 
+18 did not infect 19 because already sick 
+18 died from infection
+19 did not infect 13 because vaccinated 
+19 did not infect 13 because vaccinated 
+19 did not infect 13 because vaccinated 
+19 did not infect 20 because already sick 
+19 did not infect 21 because vaccinated 
+19 did not infect 10 because vaccinated 
+19 did not infect 10 because vaccinated 
+19 did not infect 21 because vaccinated 
+19 did not infect 14 because vaccinated 
+19 did not infect 10 because vaccinated 
+19 did not infect 13 because vaccinated 
+19 did not infect 20 because already sick 
+19 did not infect 6 because vaccinated 
+19 did not infect 14 because vaccinated 
+19 did not infect 6 because vaccinated 
+19 did not infect 13 because vaccinated 
+19 did not infect 16 because vaccinated 
+19 did not infect 16 because vaccinated 
+19 did not infect 16 because vaccinated 
+19 did not infect 16 because vaccinated 
+19 did not infect 6 because vaccinated 
+19 did not infect 6 because vaccinated 
+19 did not infect 14 because vaccinated 
+19 did not infect 6 because vaccinated 
+19 did not infect 14 because vaccinated 
+19 did not infect 16 because vaccinated 
+19 did not infect 20 because already sick 
+19 did not infect 21 because vaccinated 
+19 did not infect 14 because vaccinated 
+19 did not infect 6 because vaccinated 
+19 did not infect 20 because already sick 
+19 did not infect 21 because vaccinated 
+19 did not infect 6 because vaccinated 
+19 did not infect 20 because already sick 
+19 did not infect 13 because vaccinated 
+19 did not infect 16 because vaccinated 
+19 did not infect 21 because vaccinated 
+19 did not infect 20 because already sick 
+19 did not infect 20 because already sick 
+19 did not infect 13 because vaccinated 
+19 did not infect 14 because vaccinated 
+19 did not infect 6 because vaccinated 
+19 did not infect 14 because vaccinated 
+19 did not infect 21 because vaccinated 
+19 did not infect 16 because vaccinated 
+19 did not infect 16 because vaccinated 
+19 did not infect 21 because vaccinated 
+19 did not infect 20 because already sick 
+19 did not infect 21 because vaccinated 
+19 did not infect 10 because vaccinated 
+19 did not infect 20 because already sick 
+19 did not infect 10 because vaccinated 
+19 did not infect 20 because already sick 
+19 did not infect 20 because already sick 
+19 did not infect 6 because vaccinated 
+19 did not infect 16 because vaccinated 
+19 did not infect 21 because vaccinated 
+19 did not infect 10 because vaccinated 
+19 did not infect 21 because vaccinated 
+19 did not infect 20 because already sick 
+19 did not infect 13 because vaccinated 
+19 did not infect 6 because vaccinated 
+19 did not infect 10 because vaccinated 
+19 did not infect 21 because vaccinated 
+19 did not infect 20 because already sick 
+19 did not infect 21 because vaccinated 
+19 did not infect 16 because vaccinated 
+19 did not infect 21 because vaccinated 
+19 did not infect 21 because vaccinated 
+19 did not infect 10 because vaccinated 
+19 did not infect 20 because already sick 
+19 did not infect 13 because vaccinated 
+19 did not infect 10 because vaccinated 
+19 did not infect 14 because vaccinated 
+19 did not infect 20 because already sick 
+19 did not infect 6 because vaccinated 
+19 did not infect 16 because vaccinated 
+19 did not infect 21 because vaccinated 
+19 did not infect 16 because vaccinated 
+19 did not infect 13 because vaccinated 
+19 did not infect 6 because vaccinated 
+19 did not infect 10 because vaccinated 
+19 did not infect 13 because vaccinated 
+19 did not infect 14 because vaccinated 
+19 did not infect 10 because vaccinated 
+19 did not infect 10 because vaccinated 
+19 did not infect 20 because already sick 
+19 did not infect 10 because vaccinated 
+19 did not infect 20 because already sick 
+19 did not infect 14 because vaccinated 
+19 did not infect 6 because vaccinated 
+19 did not infect 13 because vaccinated 
+19 did not infect 20 because already sick 
+19 did not infect 13 because vaccinated 
+19 did not infect 13 because vaccinated 
+19 did not infect 6 because vaccinated 
+19 did not infect 10 because vaccinated 
+19 did not infect 16 because vaccinated 
+19 did not infect 6 because vaccinated 
+19 did not infect 21 because vaccinated 
+19 died from infection
+20 did not infect 16 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 10 because vaccinated 
+20 did not infect 13 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 10 because vaccinated 
+20 did not infect 6 because vaccinated 
+20 did not infect 6 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 13 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 6 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 13 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 13 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 6 because vaccinated 
+20 did not infect 6 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 6 because vaccinated 
+20 did not infect 13 because vaccinated 
+20 did not infect 6 because vaccinated 
+20 did not infect 10 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 10 because vaccinated 
+20 did not infect 13 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 10 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 10 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 13 because vaccinated 
+20 did not infect 13 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 13 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 10 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 10 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 13 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 10 because vaccinated 
+20 did not infect 10 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 10 because vaccinated 
+20 did not infect 13 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 6 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 10 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 10 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 10 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 13 because vaccinated 
+20 did not infect 6 because vaccinated 
+20 did not infect 6 because vaccinated 
+20 did not infect 6 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 6 because vaccinated 
+20 did not infect 10 because vaccinated 
+20 did not infect 13 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 14 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 13 because vaccinated 
+20 did not infect 16 because vaccinated 
+20 did not infect 21 because vaccinated 
+20 did not infect 10 because vaccinated 
+20 died from infection

@@ -30,22 +30,13 @@ class Simulation(object):
         All arguments will be passed as command-line arguments when the file is run.
         HINT: Look in the if __name__ == "__main__" function at the bottom.
         '''
-        # TODO: Create a Logger object and bind it to self.logger.
-        # Remember to call the appropriate logger method in the corresponding parts of the simulation.
-        # TODO: Call self._create_population() and pass in the correct parameters.
-        # Store the array that this method will return in the self.population attribute.
-        # TODO: Store each newly infected person's ID in newly_infected attribute.
-        # At the end of each time step, call self._infect_newly_infected()
-        # and then reset .newly_infected back to an empty list.
-
         self.pop_size = pop_size # Int
-        # The next_person_id is the next available id for all created Persons, and should have a unique _id value.
         self.next_person_id = 0 # Int
 
         self.virus = virus # Virus object
         self.initial_infected = initial_infected # Int
         self.total_infected = initial_infected # Int
-        self.current_infected = initial_infected # Int
+        self.current_infected = 0 # Int
 
         self.vacc_percentage = vacc_percentage # float between 0 and 1
         self.total_dead = 0 # Int
@@ -71,10 +62,7 @@ class Simulation(object):
 
         '''
         self.vaccinated  = round((self.pop_size - initial_infected) * self.vacc_percentage)
-        # print(" self.vaccinated", self.vaccinated)
         unvaccinated = round((self.pop_size - initial_infected) - self.vaccinated)
-        # print("unvaccinated", unvaccinated)
-
         person_list = []
         for num in range(self.pop_size):
             if num < initial_infected:
@@ -98,9 +86,9 @@ class Simulation(object):
             Returns:
                 bool: True for simulation should continue, False if it should end.
         '''
-        # TODO: Complete this helper method.  Returns a Boolean.
         if self.vaccinated + self.total_dead >= self.pop_size:
-            self.logger.write_currentinfect_and_dead(self.total_dead, self.pop_size, self.saved, self.total_infected)
+            print(self.current_infected)
+            self.logger.write_currentinfect_and_dead(self.total_dead, self.pop_size, self.saved, self.current_infected)
             return False
         return True
 
@@ -138,7 +126,9 @@ class Simulation(object):
                     self.total_dead += 1
                 else:
                     self.vaccinated += 1
+                print(self.current_infected)
                 self.current_infected -= 1
+                print(self.current_infected)
         self._infect_newly_infected()
 
     def _random_person(self, person_id):
@@ -159,8 +149,6 @@ class Simulation(object):
             person1 (person): The initial infected person
             random_person (person): The person that person1 interacts with.
         '''
-        # Assert statements are included to make sure that only living people are passed
-        # in as params
         assert person.is_alive == True
         assert random_person.is_alive == True
         if random_person.is_vaccinated:
@@ -174,20 +162,15 @@ class Simulation(object):
             if rand_num  <= person.infection.repro_rate:
                 self.newly_infected.append(random_person._id)
                 self.current_infected += 1
-                # print(f"current_infected incremented ......................................{self.current_infected}")
                 self.total_infected += 1
                 self.logger.log_interaction(person, random_person, did_infect=True)
 
     def _infect_newly_infected(self):
         ''' This method should iterate through the list of ._id stored in self.newly_infected
         and update each Person object with the disease. '''
-        # TODO: Call this method at the end of every time step and infect each Person.
-        # TODO: Once you have iterated through the entire list of self.newly_infected, remember
-        # to reset self.newly_infected back to an empty list.
         for id in self.newly_infected:
             self.population[id].infection = self.virus
         self.newly_infected = []
-        # print()
 
 if __name__ == "__main__":
     params = sys.argv[1:]
