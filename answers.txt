@@ -1,6 +1,6 @@
 Input data for the simulation: 
 
-       Population size = 100 
+       Population size = 100000 
        percent vaccinated = 0.9 
        virus name: Ebola 
        mortality_rate = 0.7 

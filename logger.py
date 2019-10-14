@@ -70,9 +70,9 @@ class Logger(object):
         '''
         file = open(self.file_name, 'a')
         if not did_die_from_infection:
-            file.write(f'{person._id} died from infection\n')
-        else:
             file.write(f'{person._id} survived infection.\n')
+        else:
+            file.write(f'{person._id} died from infection\n')
         file.close()
 
     def log_time_step(self, time_step_number):
