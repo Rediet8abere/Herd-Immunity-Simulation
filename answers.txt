@@ -1,10 +1,7 @@
 Input data for the simulation: 
 
-       Population size = 22 
-       percent vaccinated = 0.1 
+       Population size = 100 
+       percent vaccinated = 0.9 
        virus name: Ebola 
        mortality_rate = 0.7 
        reproductive rate = 0.25 
-       total percentage of dead Population = 73% 
-       total interaction with infected person where a vaccination saved a random person from potentially becoming infected = 644 
-       percentage of population infected at some point before the virus burned out 673%

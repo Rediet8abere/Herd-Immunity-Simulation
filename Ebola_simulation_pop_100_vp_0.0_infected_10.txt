@@ -1,0 +1,7 @@
+Input data for the simulation: 
+
+       Population size = 100 
+       percent vaccinated = 0.0 
+       virus name: Ebola 
+       mortality_rate = 1.0 
+       reproductive rate = 0.0 

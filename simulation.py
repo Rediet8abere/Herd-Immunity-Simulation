@@ -87,9 +87,14 @@ class Simulation(object):
                 bool: True for simulation should continue, False if it should end.
         '''
         if self.vaccinated + self.total_dead >= self.pop_size:
-            print(self.current_infected)
+            # print("in if statment ")
+            # print(self.current_infected)
             self.logger.write_currentinfect_and_dead(self.total_dead, self.pop_size, self.saved, self.current_infected)
             return False
+        elif self.total_dead == 0:
+            # print("no one vaccinated")
+            return False
+        # print("returning true")
         return True
 
     def run(self):
@@ -174,12 +179,16 @@ class Simulation(object):
 
 if __name__ == "__main__":
     params = sys.argv[1:]
-    virus_name = str(params[0])
-    repro_num = float(params[1])
-    mortality_rate = float(params[2])
 
-    pop_size = int(params[3])
-    vacc_percentage = float(params[4])
+    pop_size = int(params[0])
+    vacc_percentage = float(params[1])
+    virus_name = str(params[2])
+    mortality_rate = float(params[3])
+    repro_num = float(params[4])
+
+
+
+
 
     if len(params) == 6:
         initial_infected = int(params[5])
@@ -190,3 +199,4 @@ if __name__ == "__main__":
     sim = Simulation(pop_size, vacc_percentage, virus, initial_infected)
     sim.run()
     #python3 simulation.py Ebola 0.25 0.70 100000 0.90 10
+    # population_size vaccination_percentage virus_name mortality_rate reproduction_rate people_initially_infected

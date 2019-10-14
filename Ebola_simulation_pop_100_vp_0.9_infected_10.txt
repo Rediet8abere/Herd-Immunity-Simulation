@@ -98,7 +98,7 @@ Input data for the simulation:
 0 did not infect 8 because already sick 
 0 did not infect 97 because vaccinated 
 0 did not infect 68 because vaccinated 
-0 died from infection
+0 survived infection.
 1 did not infect 70 because vaccinated 
 1 did not infect 21 because vaccinated 
 1 did not infect 33 because vaccinated 
@@ -195,7 +195,7 @@ Input data for the simulation:
 1 did not infect 58 because vaccinated 
 1 did not infect 36 because vaccinated 
 1 did not infect 54 because vaccinated 
-1 survived infection.
+1 died from infection
 2 did not infect 93 because vaccinated 
 2 did not infect 71 because vaccinated 
 2 did not infect 84 because vaccinated 
@@ -288,7 +288,7 @@ Input data for the simulation:
 2 did not infect 62 because vaccinated 
 2 did not infect 32 because vaccinated 
 2 did not infect 6 because already sick 
-2 survived infection.
+2 died from infection
 3 did not infect 54 because vaccinated 
 3 did not infect 35 because vaccinated 
 3 did not infect 5 because already sick 
@@ -382,7 +382,7 @@ Input data for the simulation:
 3 did not infect 55 because vaccinated 
 3 did not infect 0 because vaccinated 
 3 did not infect 66 because vaccinated 
-3 died from infection
+3 survived infection.
 4 did not infect 68 because vaccinated 
 4 did not infect 87 because vaccinated 
 4 did not infect 92 because vaccinated 
@@ -477,7 +477,7 @@ Input data for the simulation:
 4 did not infect 71 because vaccinated 
 4 did not infect 31 because vaccinated 
 4 did not infect 59 because vaccinated 
-4 survived infection.
+4 died from infection
 5 did not infect 71 because vaccinated 
 5 did not infect 76 because vaccinated 
 5 did not infect 40 because vaccinated 
@@ -575,7 +575,7 @@ Input data for the simulation:
 5 did not infect 23 because vaccinated 
 5 did not infect 6 because already sick 
 5 did not infect 33 because vaccinated 
-5 survived infection.
+5 died from infection
 6 did not infect 27 because vaccinated 
 6 did not infect 58 because vaccinated 
 6 did not infect 41 because vaccinated 
@@ -667,7 +667,7 @@ Input data for the simulation:
 6 did not infect 31 because vaccinated 
 6 did not infect 96 because vaccinated 
 6 did not infect 59 because vaccinated 
-6 survived infection.
+6 died from infection
 7 did not infect 85 because vaccinated 
 7 did not infect 48 because vaccinated 
 7 did not infect 43 because vaccinated 
@@ -760,7 +760,7 @@ Input data for the simulation:
 7 did not infect 51 because vaccinated 
 7 did not infect 62 because vaccinated 
 7 did not infect 9 because already sick 
-7 survived infection.
+7 died from infection
 8 did not infect 87 because vaccinated 
 8 did not infect 19 because vaccinated 
 8 did not infect 19 because vaccinated 
@@ -855,7 +855,7 @@ Input data for the simulation:
 8 did not infect 60 because vaccinated 
 8 did not infect 66 because vaccinated 
 8 did not infect 83 because vaccinated 
-8 survived infection.
+8 died from infection
 9 did not infect 35 because vaccinated 
 9 did not infect 23 because vaccinated 
 9 did not infect 74 because vaccinated 
@@ -947,4 +947,4 @@ Input data for the simulation:
 9 did not infect 44 because vaccinated 
 9 did not infect 42 because vaccinated 
 9 did not infect 70 because vaccinated 
-9 died from infection
+9 survived infection.

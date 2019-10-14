@@ -40,12 +40,17 @@ class TestSimulationMethods(unittest.TestCase):
 
         self.sim.vaccinated = 7
         self.sim.total_dead = 9
+        self.sim.total_dead = 0
         if self.sim.vaccinated + self.sim.total_dead >= self.sim.pop_size:
             print("simulation should end")
+            self.assertFalse(self.sim._simulation_should_continue())
+        elif self.sim.total_dead == 0:
+            print("all dead")
             self.assertFalse(self.sim._simulation_should_continue())
         elif self. sim.vaccinated + self. sim.total_dead < self. sim.pop_size:
             print("simulation should continue")
             self.assertTrue(self.sim._simulation_should_continue())
+
 
         self.sim.vaccinated = 7
         self.sim.total_dead = 94
